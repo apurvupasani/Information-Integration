@@ -1,0 +1,947 @@
+http://dbpedia.org/resource/AFI_Conservatory	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x1	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x1	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x1	https://schema.org/latitude	""
+_:node193k4l961x1	https://schema.org/longitude	""
+http://dbpedia.org/resource/AFI_Conservatory	https://schema.org/name	""AFI Conservatory"@en"
+http://dbpedia.org/resource/AFI_Conservatory	https://schema.org/location	_:node193k4l961x1
+http://dbpedia.org/resource/Abraham_Lincoln_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x2	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x2	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x2	https://schema.org/latitude	"34.06"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x2	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Abraham_Lincoln_University	https://schema.org/name	""Abraham Lincoln University"@en"
+http://dbpedia.org/resource/Abraham_Lincoln_University	https://schema.org/location	_:node193k4l961x2
+http://dbpedia.org/resource/Academy_of_Chinese_Culture_and_Health_Sciences	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x3	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x3	https://schema.org/address	http://dbpedia.org/resource/Oakland,_California
+_:node193k4l961x3	https://schema.org/latitude	""
+_:node193k4l961x3	https://schema.org/longitude	""
+http://dbpedia.org/resource/Academy_of_Chinese_Culture_and_Health_Sciences	https://schema.org/name	""Academy of Chinese Culture and Health Sciences"@en"
+http://dbpedia.org/resource/Academy_of_Chinese_Culture_and_Health_Sciences	https://schema.org/location	_:node193k4l961x3
+http://dbpedia.org/resource/American_Baptist_Seminary_of_the_West	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x4	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x4	https://schema.org/address	http://dbpedia.org/resource/Berkeley,_California
+_:node193k4l961x4	https://schema.org/latitude	"37.86"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x4	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/American_Baptist_Seminary_of_the_West	https://schema.org/name	""American Baptist Seminary of the West"@en"
+http://dbpedia.org/resource/American_Baptist_Seminary_of_the_West	https://schema.org/location	_:node193k4l961x4
+http://dbpedia.org/resource/American_Heritage_University_of_Southern_California	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x5	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x5	https://schema.org/address	http://dbpedia.org/resource/San_Bernardino,_California
+_:node193k4l961x5	https://schema.org/latitude	""
+_:node193k4l961x5	https://schema.org/longitude	""
+http://dbpedia.org/resource/American_Heritage_University_of_Southern_California	https://schema.org/name	""American Heritage University of Southern California"@en"
+http://dbpedia.org/resource/American_Heritage_University_of_Southern_California	https://schema.org/location	_:node193k4l961x5
+http://dbpedia.org/resource/American_Sports_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x6	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x6	https://schema.org/address	http://dbpedia.org/resource/San_Bernardino,_California
+_:node193k4l961x6	https://schema.org/latitude	"34.1"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x6	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/American_Sports_University	https://schema.org/name	""American Sports University"@en"
+http://dbpedia.org/resource/American_Sports_University	https://schema.org/location	_:node193k4l961x6
+http://dbpedia.org/resource/Anaheim_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x7	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x7	https://schema.org/address	http://dbpedia.org/resource/Anaheim,_California
+_:node193k4l961x7	https://schema.org/latitude	"33.81"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x7	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Anaheim_University	https://schema.org/name	""Anaheim University"@en"
+http://dbpedia.org/resource/Anaheim_University	https://schema.org/location	_:node193k4l961x7
+http://dbpedia.org/resource/Antioch_University_Los_Angeles	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x8	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x8	https://schema.org/address	http://dbpedia.org/resource/Culver_City,_California
+_:node193k4l961x8	https://schema.org/latitude	""
+_:node193k4l961x8	https://schema.org/longitude	""
+http://dbpedia.org/resource/Antioch_University_Los_Angeles	https://schema.org/name	""Antioch University Los Angeles"@en"
+http://dbpedia.org/resource/Antioch_University_Los_Angeles	https://schema.org/location	_:node193k4l961x8
+http://dbpedia.org/resource/Antioch_University_Santa_Barbara	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x9	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x9	https://schema.org/address	http://dbpedia.org/resource/Santa_Barbara,_California
+_:node193k4l961x9	https://schema.org/latitude	"34.42"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x9	https://schema.org/longitude	"-119.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Antioch_University_Santa_Barbara	https://schema.org/name	""Antioch University Santa Barbara"@en"
+http://dbpedia.org/resource/Antioch_University_Santa_Barbara	https://schema.org/location	_:node193k4l961x9
+http://dbpedia.org/resource/Art_Center_College_of_Design	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x10	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x10	https://schema.org/address	http://dbpedia.org/resource/Pasadena,_California
+_:node193k4l961x10	https://schema.org/latitude	"34.16"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x10	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Art_Center_College_of_Design	https://schema.org/name	""Art Center College of Design"@en"
+http://dbpedia.org/resource/Art_Center_College_of_Design	https://schema.org/location	_:node193k4l961x10
+http://dbpedia.org/resource/Azusa_Pacific_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x11	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x11	https://schema.org/address	http://dbpedia.org/resource/Azusa,_California
+_:node193k4l961x11	https://schema.org/latitude	"34.12"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x11	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Azusa_Pacific_University	https://schema.org/name	""Azusa Pacific University"@en"
+http://dbpedia.org/resource/Azusa_Pacific_University	https://schema.org/location	_:node193k4l961x11
+http://dbpedia.org/resource/Bethany_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x12	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x12	https://schema.org/address	http://dbpedia.org/resource/Scotts_Valley,_California
+_:node193k4l961x12	https://schema.org/latitude	"37.07"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x12	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Bethany_University	https://schema.org/name	""Bethany University"@en"
+http://dbpedia.org/resource/Bethany_University	https://schema.org/location	_:node193k4l961x12
+http://dbpedia.org/resource/Brandman_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x13	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x13	https://schema.org/address	http://dbpedia.org/resource/Irvine,_California
+_:node193k4l961x13	https://schema.org/latitude	"33.65"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x13	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Brandman_University	https://schema.org/name	""Brandman University"@en"
+http://dbpedia.org/resource/Brandman_University	https://schema.org/location	_:node193k4l961x13
+http://dbpedia.org/resource/Cal_Northern_School_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x14	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x14	https://schema.org/address	http://dbpedia.org/resource/Chico,_California
+_:node193k4l961x14	https://schema.org/latitude	"39.77"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x14	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Cal_Northern_School_of_Law	https://schema.org/name	""Cal Northern School of Law"@en"
+http://dbpedia.org/resource/Cal_Northern_School_of_Law	https://schema.org/location	_:node193k4l961x14
+http://dbpedia.org/resource/California_College_of_Ayurveda	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x15	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x15	https://schema.org/address	http://dbpedia.org/resource/Nevada_City
+_:node193k4l961x15	https://schema.org/latitude	""
+_:node193k4l961x15	https://schema.org/longitude	""
+http://dbpedia.org/resource/California_College_of_Ayurveda	https://schema.org/name	""California College of Ayurveda"@en"
+http://dbpedia.org/resource/California_College_of_Ayurveda	https://schema.org/location	_:node193k4l961x15
+http://dbpedia.org/resource/California_Institute_of_Integral_Studies	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x16	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x16	https://schema.org/address	http://dbpedia.org/resource/San_Francisco
+_:node193k4l961x16	https://schema.org/latitude	""
+_:node193k4l961x16	https://schema.org/longitude	""
+http://dbpedia.org/resource/California_Institute_of_Integral_Studies	https://schema.org/name	""California Institute of Integral Studies"@en"
+http://dbpedia.org/resource/California_Institute_of_Integral_Studies	https://schema.org/location	_:node193k4l961x16
+http://dbpedia.org/resource/California_InterContinental_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x17	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x17	https://schema.org/address	http://dbpedia.org/resource/Diamond_Bar,_California
+_:node193k4l961x17	https://schema.org/latitude	"33.97"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x17	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/California_InterContinental_University	https://schema.org/name	""California InterContinental University"@en"
+http://dbpedia.org/resource/California_InterContinental_University	https://schema.org/location	_:node193k4l961x17
+http://dbpedia.org/resource/California_Southern_Law_School	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x18	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x18	https://schema.org/address	http://dbpedia.org/resource/Riverside,_California
+_:node193k4l961x18	https://schema.org/latitude	"33.95"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x18	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/California_Southern_Law_School	https://schema.org/name	""California Southern Law School"@en"
+http://dbpedia.org/resource/California_Southern_Law_School	https://schema.org/location	_:node193k4l961x18
+http://dbpedia.org/resource/California_Western_School_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x19	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x19	https://schema.org/address	http://dbpedia.org/resource/San_Diego
+_:node193k4l961x19	https://schema.org/latitude	"32.72"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x19	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/California_Western_School_of_Law	https://schema.org/name	""California Western School of Law"@en"
+http://dbpedia.org/resource/California_Western_School_of_Law	https://schema.org/location	_:node193k4l961x19
+http://dbpedia.org/resource/Chapman_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x20	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x20	https://schema.org/address	http://dbpedia.org/resource/Orange,_California
+_:node193k4l961x20	https://schema.org/latitude	"33.79"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x20	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Chapman_University	https://schema.org/name	""Chapman University"@en"
+http://dbpedia.org/resource/Chapman_University	https://schema.org/location	_:node193k4l961x20
+http://dbpedia.org/resource/Chapman_University_School_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x21	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x21	https://schema.org/address	http://dbpedia.org/resource/Orange,_California
+_:node193k4l961x21	https://schema.org/latitude	"33.79"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x21	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Chapman_University_School_of_Law	https://schema.org/name	""Chapman University School of Law"@en"
+http://dbpedia.org/resource/Chapman_University_School_of_Law	https://schema.org/location	_:node193k4l961x21
+http://dbpedia.org/resource/Cogswell_Polytechnical_College	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x22	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x22	https://schema.org/address	http://dbpedia.org/resource/Sunnyvale,_California
+_:node193k4l961x22	https://schema.org/latitude	"37.4"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x22	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Cogswell_Polytechnical_College	https://schema.org/name	""Cogswell Polytechnical College"@en"
+http://dbpedia.org/resource/Cogswell_Polytechnical_College	https://schema.org/location	_:node193k4l961x22
+http://dbpedia.org/resource/College_of_Osteopathic_Medicine_of_the_Pacific	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x23	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x23	https://schema.org/address	http://dbpedia.org/resource/Pomona,_California
+_:node193k4l961x23	https://schema.org/latitude	"34.05"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x23	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/College_of_Osteopathic_Medicine_of_the_Pacific	https://schema.org/name	""College of Osteopathic Medicine of the Pacific"@en"
+http://dbpedia.org/resource/College_of_Osteopathic_Medicine_of_the_Pacific	https://schema.org/location	_:node193k4l961x23
+http://dbpedia.org/resource/Columbia_College_Hollywood	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x24	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x24	https://schema.org/address	http://dbpedia.org/resource/Tarzana,_Los_Angeles
+_:node193k4l961x24	https://schema.org/latitude	""
+_:node193k4l961x24	https://schema.org/longitude	""
+http://dbpedia.org/resource/Columbia_College_Hollywood	https://schema.org/name	""Columbia College Hollywood"@en"
+http://dbpedia.org/resource/Columbia_College_Hollywood	https://schema.org/location	_:node193k4l961x24
+http://dbpedia.org/resource/Concord_Law_School	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x25	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x25	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x25	https://schema.org/latitude	""
+_:node193k4l961x25	https://schema.org/longitude	""
+http://dbpedia.org/resource/Concord_Law_School	https://schema.org/name	""Concord Law School"@en"
+http://dbpedia.org/resource/Concord_Law_School	https://schema.org/location	_:node193k4l961x25
+http://dbpedia.org/resource/Conservatory_of_Music,_University_of_the_Pacific	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x26	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x26	https://schema.org/address	http://dbpedia.org/resource/Stockton,_California
+_:node193k4l961x26	https://schema.org/latitude	""
+_:node193k4l961x26	https://schema.org/longitude	""
+http://dbpedia.org/resource/Conservatory_of_Music,_University_of_the_Pacific	https://schema.org/name	""Conservatory of Music, University of the Pacific"@en"
+http://dbpedia.org/resource/Conservatory_of_Music,_University_of_the_Pacific	https://schema.org/location	_:node193k4l961x26
+http://dbpedia.org/resource/Culinary_Institute_of_America_at_Greystone	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x27	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x27	https://schema.org/address	http://dbpedia.org/resource/St._Helena,_California
+_:node193k4l961x27	https://schema.org/latitude	""
+_:node193k4l961x27	https://schema.org/longitude	""
+http://dbpedia.org/resource/Culinary_Institute_of_America_at_Greystone	https://schema.org/name	""Culinary Institute of America at Greystone"@en"
+http://dbpedia.org/resource/Culinary_Institute_of_America_at_Greystone	https://schema.org/location	_:node193k4l961x27
+http://dbpedia.org/resource/Drexel_University_Sacramento	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x28	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x28	https://schema.org/address	http://dbpedia.org/resource/Sacramento,_California
+_:node193k4l961x28	https://schema.org/latitude	""
+_:node193k4l961x28	https://schema.org/longitude	""
+http://dbpedia.org/resource/Drexel_University_Sacramento	https://schema.org/name	""Drexel University Sacramento"@en"
+http://dbpedia.org/resource/Drexel_University_Sacramento	https://schema.org/location	_:node193k4l961x28
+http://dbpedia.org/resource/Empire_College_School_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x29	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x29	https://schema.org/address	http://dbpedia.org/resource/Santa_Rosa,_California
+_:node193k4l961x29	https://schema.org/latitude	"38.46"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x29	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Empire_College_School_of_Law	https://schema.org/name	""Empire College School of Law"@en"
+http://dbpedia.org/resource/Empire_College_School_of_Law	https://schema.org/location	_:node193k4l961x29
+http://dbpedia.org/resource/Epic_Bible_College	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x30	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x30	https://schema.org/address	http://dbpedia.org/resource/Sacramento,_California
+_:node193k4l961x30	https://schema.org/latitude	"38.66"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x30	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Epic_Bible_College	https://schema.org/name	""Epic Bible College"@en"
+http://dbpedia.org/resource/Epic_Bible_College	https://schema.org/location	_:node193k4l961x30
+http://dbpedia.org/resource/Fashion_Institute_of_Design_&_Merchandising	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x31	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x31	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x31	https://schema.org/latitude	""
+_:node193k4l961x31	https://schema.org/longitude	""
+http://dbpedia.org/resource/Fashion_Institute_of_Design_&_Merchandising	https://schema.org/name	""Fashion Institute of Design & Merchandising"@en"
+http://dbpedia.org/resource/Fashion_Institute_of_Design_&_Merchandising	https://schema.org/location	_:node193k4l961x31
+http://dbpedia.org/resource/Franciscan_School_of_Theology	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x32	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x32	https://schema.org/address	http://dbpedia.org/resource/Berkeley,_California
+_:node193k4l961x32	https://schema.org/latitude	"37.87"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x32	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Franciscan_School_of_Theology	https://schema.org/name	""Franciscan School of Theology"@en"
+http://dbpedia.org/resource/Franciscan_School_of_Theology	https://schema.org/location	_:node193k4l961x32
+http://dbpedia.org/resource/Glendale_University_College_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x33	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x33	https://schema.org/address	http://dbpedia.org/resource/Glendale,_California
+_:node193k4l961x33	https://schema.org/latitude	"34.14"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x33	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Glendale_University_College_of_Law	https://schema.org/name	""Glendale University College of Law"@en"
+http://dbpedia.org/resource/Glendale_University_College_of_Law	https://schema.org/location	_:node193k4l961x33
+http://dbpedia.org/resource/Golden_Gate_University_School_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x34	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x34	https://schema.org/address	http://dbpedia.org/resource/San_Francisco
+_:node193k4l961x34	https://schema.org/latitude	"37.78"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x34	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Golden_Gate_University_School_of_Law	https://schema.org/name	""Golden Gate University School of Law"@en"
+http://dbpedia.org/resource/Golden_Gate_University_School_of_Law	https://schema.org/location	_:node193k4l961x34
+http://dbpedia.org/resource/Graziadio_School_of_Business_and_Management	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x35	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x35	https://schema.org/address	http://dbpedia.org/resource/Malibu,_California
+_:node193k4l961x35	https://schema.org/latitude	"33.97"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x35	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Graziadio_School_of_Business_and_Management	https://schema.org/name	""Graziadio School of Business and Management"@en"
+http://dbpedia.org/resource/Graziadio_School_of_Business_and_Management	https://schema.org/location	_:node193k4l961x35
+http://dbpedia.org/resource/Herguan_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x36	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x36	https://schema.org/address	http://dbpedia.org/resource/Sunnyvale,_California
+_:node193k4l961x36	https://schema.org/latitude	""
+_:node193k4l961x36	https://schema.org/longitude	""
+http://dbpedia.org/resource/Herguan_University	https://schema.org/name	""Herguan University"@en"
+http://dbpedia.org/resource/Herguan_University	https://schema.org/location	_:node193k4l961x36
+http://dbpedia.org/resource/Holy_Names_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x37	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x37	https://schema.org/address	http://dbpedia.org/resource/Oakland,_California
+_:node193k4l961x37	https://schema.org/latitude	"37.8"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x37	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Holy_Names_University	https://schema.org/name	""Holy Names University"@en"
+http://dbpedia.org/resource/Holy_Names_University	https://schema.org/location	_:node193k4l961x37
+http://dbpedia.org/resource/Humphreys_College_Laurence_Drivon_School_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x38	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x38	https://schema.org/address	http://dbpedia.org/resource/Stockton,_California
+_:node193k4l961x38	https://schema.org/latitude	"38.01"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x38	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Humphreys_College_Laurence_Drivon_School_of_Law	https://schema.org/name	""Humphreys College Laurence Drivon School of Law"@en"
+http://dbpedia.org/resource/Humphreys_College_Laurence_Drivon_School_of_Law	https://schema.org/location	_:node193k4l961x38
+http://dbpedia.org/resource/John_F._Kennedy_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x39	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x39	https://schema.org/address	http://dbpedia.org/resource/Pleasant_Hill,_California
+_:node193k4l961x39	https://schema.org/latitude	"37.95"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x39	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/John_F._Kennedy_University	https://schema.org/name	""John F. Kennedy University"@en"
+http://dbpedia.org/resource/John_F._Kennedy_University	https://schema.org/location	_:node193k4l961x39
+http://dbpedia.org/resource/KGI_School_of_Pharmacy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x40	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x40	https://schema.org/address	http://dbpedia.org/resource/Claremont,_California
+_:node193k4l961x40	https://schema.org/latitude	"34.09"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x40	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/KGI_School_of_Pharmacy	https://schema.org/name	""KGI School of Pharmacy"@en"
+http://dbpedia.org/resource/KGI_School_of_Pharmacy	https://schema.org/location	_:node193k4l961x40
+http://dbpedia.org/resource/Keck_Graduate_Institute_of_Applied_Life_Sciences	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x41	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x41	https://schema.org/address	http://dbpedia.org/resource/Claremont,_California
+_:node193k4l961x41	https://schema.org/latitude	""
+_:node193k4l961x41	https://schema.org/longitude	""
+http://dbpedia.org/resource/Keck_Graduate_Institute_of_Applied_Life_Sciences	https://schema.org/name	""Keck Graduate Institute of Applied Life Sciences"@en"
+http://dbpedia.org/resource/Keck_Graduate_Institute_of_Applied_Life_Sciences	https://schema.org/location	_:node193k4l961x41
+http://dbpedia.org/resource/Keck_School_of_Medicine_of_USC	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x42	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x42	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x42	https://schema.org/latitude	""
+_:node193k4l961x42	https://schema.org/longitude	""
+http://dbpedia.org/resource/Keck_School_of_Medicine_of_USC	https://schema.org/name	""Keck School of Medicine of USC"@en"
+http://dbpedia.org/resource/Keck_School_of_Medicine_of_USC	https://schema.org/location	_:node193k4l961x42
+http://dbpedia.org/resource/Kensington_College	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x43	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x43	https://schema.org/address	http://dbpedia.org/resource/Santa_Ana,_California
+_:node193k4l961x43	https://schema.org/latitude	""
+_:node193k4l961x43	https://schema.org/longitude	""
+http://dbpedia.org/resource/Kensington_College	https://schema.org/name	""Kensington College"@en"
+http://dbpedia.org/resource/Kensington_College	https://schema.org/location	_:node193k4l961x43
+http://dbpedia.org/resource/Latin_American_Bible_Institute,_California	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x44	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x44	https://schema.org/address	http://dbpedia.org/resource/La_Puente,_California
+_:node193k4l961x44	https://schema.org/latitude	"34.03"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x44	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Latin_American_Bible_Institute,_California	https://schema.org/name	""Latin American Bible Institute, California"@en"
+http://dbpedia.org/resource/Latin_American_Bible_Institute,_California	https://schema.org/location	_:node193k4l961x44
+http://dbpedia.org/resource/Lincoln_Law_School_of_Sacramento	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x45	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x45	https://schema.org/address	http://dbpedia.org/resource/Sacramento,_California
+_:node193k4l961x45	https://schema.org/latitude	"38.57"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x45	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Lincoln_Law_School_of_Sacramento	https://schema.org/name	""Lincoln Law School of Sacramento"@en"
+http://dbpedia.org/resource/Lincoln_Law_School_of_Sacramento	https://schema.org/location	_:node193k4l961x45
+http://dbpedia.org/resource/Lincoln_Law_School_of_San_Jose	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x46	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x46	https://schema.org/address	http://dbpedia.org/resource/San_Jose,_California
+_:node193k4l961x46	https://schema.org/latitude	"37.33"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x46	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Lincoln_Law_School_of_San_Jose	https://schema.org/name	""Lincoln Law School of San Jose"@en"
+http://dbpedia.org/resource/Lincoln_Law_School_of_San_Jose	https://schema.org/location	_:node193k4l961x46
+http://dbpedia.org/resource/Loma_Linda_University_School_of_Allied_Health_Professions	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x47	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x47	https://schema.org/address	http://dbpedia.org/resource/Loma_Linda,_California
+_:node193k4l961x47	https://schema.org/latitude	"34.05"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x47	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Loma_Linda_University_School_of_Allied_Health_Professions	https://schema.org/name	""Loma Linda University School of Allied Health Professions"@en"
+http://dbpedia.org/resource/Loma_Linda_University_School_of_Allied_Health_Professions	https://schema.org/location	_:node193k4l961x47
+http://dbpedia.org/resource/Loma_Linda_University_School_of_Dentistry	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x48	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x48	https://schema.org/address	http://dbpedia.org/resource/Loma_Linda,_California
+_:node193k4l961x48	https://schema.org/latitude	""
+_:node193k4l961x48	https://schema.org/longitude	""
+http://dbpedia.org/resource/Loma_Linda_University_School_of_Dentistry	https://schema.org/name	""Loma Linda University School of Dentistry"@en"
+http://dbpedia.org/resource/Loma_Linda_University_School_of_Dentistry	https://schema.org/location	_:node193k4l961x48
+http://dbpedia.org/resource/Loma_Linda_University_School_of_Public_Health	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x49	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x49	https://schema.org/address	http://dbpedia.org/resource/Loma_Linda,_California
+_:node193k4l961x49	https://schema.org/latitude	"34.05"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x49	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Loma_Linda_University_School_of_Public_Health	https://schema.org/name	""Loma Linda University School of Public Health"@en"
+http://dbpedia.org/resource/Loma_Linda_University_School_of_Public_Health	https://schema.org/location	_:node193k4l961x49
+http://dbpedia.org/resource/Los_Angeles_Recording_School	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x50	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x50	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x50	https://schema.org/latitude	""
+_:node193k4l961x50	https://schema.org/longitude	""
+http://dbpedia.org/resource/Los_Angeles_Recording_School	https://schema.org/name	""Los Angeles Recording School"@en"
+http://dbpedia.org/resource/Los_Angeles_Recording_School	https://schema.org/location	_:node193k4l961x50
+http://dbpedia.org/resource/Loyola_Law_School	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x51	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x51	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x51	https://schema.org/latitude	"34.04"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x51	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Loyola_Law_School	https://schema.org/name	""Loyola Law School"@en"
+http://dbpedia.org/resource/Loyola_Law_School	https://schema.org/location	_:node193k4l961x51
+http://dbpedia.org/resource/Loyola_Marymount_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x52	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x52	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x52	https://schema.org/latitude	"33.97"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x52	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Loyola_Marymount_University	https://schema.org/name	""Loyola Marymount University"@en"
+http://dbpedia.org/resource/Loyola_Marymount_University	https://schema.org/location	_:node193k4l961x52
+http://dbpedia.org/resource/McGeorge_School_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x53	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x53	https://schema.org/address	http://dbpedia.org/resource/Sacramento,_California
+_:node193k4l961x53	https://schema.org/latitude	"38.54"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x53	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/McGeorge_School_of_Law	https://schema.org/name	""McGeorge School of Law"@en"
+http://dbpedia.org/resource/McGeorge_School_of_Law	https://schema.org/location	_:node193k4l961x53
+http://dbpedia.org/resource/McMillan_Academy_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x54	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x54	https://schema.org/address	http://dbpedia.org/resource/La_Mesa,_California
+_:node193k4l961x54	https://schema.org/latitude	"32.76"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x54	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/McMillan_Academy_of_Law	https://schema.org/name	""McMillan Academy of Law"@en"
+http://dbpedia.org/resource/McMillan_Academy_of_Law	https://schema.org/location	_:node193k4l961x54
+http://dbpedia.org/resource/Monterey_College_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x55	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x55	https://schema.org/address	http://dbpedia.org/resource/Seaside,_California
+_:node193k4l961x55	https://schema.org/latitude	"36.59"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x55	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Monterey_College_of_Law	https://schema.org/name	""Monterey College of Law"@en"
+http://dbpedia.org/resource/Monterey_College_of_Law	https://schema.org/location	_:node193k4l961x55
+http://dbpedia.org/resource/Monterey_Institute_of_International_Studies	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x56	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x56	https://schema.org/address	http://dbpedia.org/resource/Monterey,_California
+_:node193k4l961x56	https://schema.org/latitude	"36.59"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x56	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Monterey_Institute_of_International_Studies	https://schema.org/name	""Monterey Institute of International Studies"@en"
+http://dbpedia.org/resource/Monterey_Institute_of_International_Studies	https://schema.org/location	_:node193k4l961x56
+http://dbpedia.org/resource/Mount_Madonna_Institute	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x57	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x57	https://schema.org/address	http://dbpedia.org/resource/Watsonville,_California
+_:node193k4l961x57	https://schema.org/latitude	""
+_:node193k4l961x57	https://schema.org/longitude	""
+http://dbpedia.org/resource/Mount_Madonna_Institute	https://schema.org/name	""Mount Madonna Institute"@en"
+http://dbpedia.org/resource/Mount_Madonna_Institute	https://schema.org/location	_:node193k4l961x57
+http://dbpedia.org/resource/Mount_St._Mary's_College	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x58	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x58	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x58	https://schema.org/latitude	""
+_:node193k4l961x58	https://schema.org/longitude	""
+http://dbpedia.org/resource/Mount_St._Mary's_College	https://schema.org/name	""Mount St. Mary's College"@en"
+http://dbpedia.org/resource/Mount_St._Mary's_College	https://schema.org/location	_:node193k4l961x58
+http://dbpedia.org/resource/National_Hispanic_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x59	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x59	https://schema.org/address	http://dbpedia.org/resource/San_Jose,_California
+_:node193k4l961x59	https://schema.org/latitude	"37.35"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x59	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/National_Hispanic_University	https://schema.org/name	""National Hispanic University"@en"
+http://dbpedia.org/resource/National_Hispanic_University	https://schema.org/location	_:node193k4l961x59
+http://dbpedia.org/resource/National_University_(California)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x60	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x60	https://schema.org/address	http://dbpedia.org/resource/San_Diego
+_:node193k4l961x60	https://schema.org/latitude	""
+_:node193k4l961x60	https://schema.org/longitude	""
+http://dbpedia.org/resource/National_University_(California)	https://schema.org/name	""National University (California)"@en"
+http://dbpedia.org/resource/National_University_(California)	https://schema.org/location	_:node193k4l961x60
+http://dbpedia.org/resource/NewSchool_of_Architecture_and_Design	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x61	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x61	https://schema.org/address	http://dbpedia.org/resource/San_Diego
+_:node193k4l961x61	https://schema.org/latitude	"32.71"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x61	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/NewSchool_of_Architecture_and_Design	https://schema.org/name	""NewSchool of Architecture and Design"@en"
+http://dbpedia.org/resource/NewSchool_of_Architecture_and_Design	https://schema.org/location	_:node193k4l961x61
+http://dbpedia.org/resource/Northwestern_California_University_School_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x62	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x62	https://schema.org/address	http://dbpedia.org/resource/Sacramento,_California
+_:node193k4l961x62	https://schema.org/latitude	"38.6"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x62	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Northwestern_California_University_School_of_Law	https://schema.org/name	""Northwestern California University School of Law"@en"
+http://dbpedia.org/resource/Northwestern_California_University_School_of_Law	https://schema.org/location	_:node193k4l961x62
+http://dbpedia.org/resource/Northwestern_Polytechnic_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x63	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x63	https://schema.org/address	http://dbpedia.org/resource/Fremont,_California
+_:node193k4l961x63	https://schema.org/latitude	"37.47"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x63	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Northwestern_Polytechnic_University	https://schema.org/name	""Northwestern Polytechnic University"@en"
+http://dbpedia.org/resource/Northwestern_Polytechnic_University	https://schema.org/location	_:node193k4l961x63
+http://dbpedia.org/resource/Notre_Dame_de_Namur_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x64	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x64	https://schema.org/address	http://dbpedia.org/resource/Belmont,_California
+_:node193k4l961x64	https://schema.org/latitude	""
+_:node193k4l961x64	https://schema.org/longitude	""
+http://dbpedia.org/resource/Notre_Dame_de_Namur_University	https://schema.org/name	""Notre Dame de Namur University"@en"
+http://dbpedia.org/resource/Notre_Dame_de_Namur_University	https://schema.org/location	_:node193k4l961x64
+http://dbpedia.org/resource/Occidental_College	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x65	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x65	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x65	https://schema.org/latitude	""
+_:node193k4l961x65	https://schema.org/longitude	""
+http://dbpedia.org/resource/Occidental_College	https://schema.org/name	""Occidental College"@en"
+http://dbpedia.org/resource/Occidental_College	https://schema.org/location	_:node193k4l961x65
+http://dbpedia.org/resource/Olivet_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x66	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x66	https://schema.org/address	http://dbpedia.org/resource/San_Francisco
+_:node193k4l961x66	https://schema.org/latitude	""
+_:node193k4l961x66	https://schema.org/longitude	""
+http://dbpedia.org/resource/Olivet_University	https://schema.org/name	""Olivet University"@en"
+http://dbpedia.org/resource/Olivet_University	https://schema.org/location	_:node193k4l961x66
+http://dbpedia.org/resource/Pacific_Coast_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x67	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x67	https://schema.org/address	http://dbpedia.org/resource/Long_Beach,_California
+_:node193k4l961x67	https://schema.org/latitude	"33.78"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x67	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Pacific_Coast_University	https://schema.org/name	""Pacific Coast University"@en"
+http://dbpedia.org/resource/Pacific_Coast_University	https://schema.org/location	_:node193k4l961x67
+http://dbpedia.org/resource/Pacific_Oaks_College	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x68	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x68	https://schema.org/address	http://dbpedia.org/resource/Distance_education
+_:node193k4l961x68	https://schema.org/latitude	""
+_:node193k4l961x68	https://schema.org/longitude	""
+http://dbpedia.org/resource/Pacific_Oaks_College	https://schema.org/name	""Pacific Oaks College"@en"
+http://dbpedia.org/resource/Pacific_Oaks_College	https://schema.org/location	_:node193k4l961x68
+_:node193k4l961x69	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x69	https://schema.org/address	http://dbpedia.org/resource/Pasadena,_California
+_:node193k4l961x69	https://schema.org/latitude	""
+_:node193k4l961x69	https://schema.org/longitude	""
+http://dbpedia.org/resource/Pacific_Oaks_College	https://schema.org/location	_:node193k4l961x69
+http://dbpedia.org/resource/Pacific_School_of_Religion	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x70	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x70	https://schema.org/address	http://dbpedia.org/resource/Berkeley,_California
+_:node193k4l961x70	https://schema.org/latitude	"37.87"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x70	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Pacific_School_of_Religion	https://schema.org/name	""Pacific School of Religion"@en"
+http://dbpedia.org/resource/Pacific_School_of_Religion	https://schema.org/location	_:node193k4l961x70
+http://dbpedia.org/resource/Pacific_States_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x71	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x71	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x71	https://schema.org/latitude	"34.04"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x71	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Pacific_States_University	https://schema.org/name	""Pacific States University"@en"
+http://dbpedia.org/resource/Pacific_States_University	https://schema.org/location	_:node193k4l961x71
+http://dbpedia.org/resource/Pacific_Union_College	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x72	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x72	https://schema.org/address	http://dbpedia.org/resource/Angwin,_California
+_:node193k4l961x72	https://schema.org/latitude	"38.56"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x72	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Pacific_Union_College	https://schema.org/name	""Pacific Union College"@en"
+http://dbpedia.org/resource/Pacific_Union_College	https://schema.org/location	_:node193k4l961x72
+http://dbpedia.org/resource/Palo_Alto_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x73	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x73	https://schema.org/address	http://dbpedia.org/resource/Palo_Alto,_California
+_:node193k4l961x73	https://schema.org/latitude	"37.38"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x73	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Palo_Alto_University	https://schema.org/name	""Palo Alto University"@en"
+http://dbpedia.org/resource/Palo_Alto_University	https://schema.org/location	_:node193k4l961x73
+http://dbpedia.org/resource/Patten_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x74	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x74	https://schema.org/address	http://dbpedia.org/resource/Oakland,_California
+_:node193k4l961x74	https://schema.org/latitude	"37.78"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x74	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Patten_University	https://schema.org/name	""Patten University"@en"
+http://dbpedia.org/resource/Patten_University	https://schema.org/location	_:node193k4l961x74
+http://dbpedia.org/resource/People's_College_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x75	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x75	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x75	https://schema.org/latitude	"34.05"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x75	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/People's_College_of_Law	https://schema.org/name	""People's College of Law"@en"
+http://dbpedia.org/resource/People's_College_of_Law	https://schema.org/location	_:node193k4l961x75
+http://dbpedia.org/resource/Pepperdine_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x76	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x76	https://schema.org/address	http://dbpedia.org/resource/Malibu,_California
+_:node193k4l961x76	https://schema.org/latitude	"34.03"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x76	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Pepperdine_University	https://schema.org/name	""Pepperdine University"@en"
+http://dbpedia.org/resource/Pepperdine_University	https://schema.org/location	_:node193k4l961x76
+http://dbpedia.org/resource/Pepperdine_University_School_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x77	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x77	https://schema.org/address	http://dbpedia.org/resource/Malibu,_California
+_:node193k4l961x77	https://schema.org/latitude	"34.04"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x77	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Pepperdine_University_School_of_Law	https://schema.org/name	""Pepperdine University School of Law"@en"
+http://dbpedia.org/resource/Pepperdine_University_School_of_Law	https://schema.org/location	_:node193k4l961x77
+http://dbpedia.org/resource/Platt_College_(San_Diego)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x78	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x78	https://schema.org/address	http://dbpedia.org/resource/San_Diego
+_:node193k4l961x78	https://schema.org/latitude	"32.76"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x78	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Platt_College_(San_Diego)	https://schema.org/name	""Platt College (San Diego)"@en"
+http://dbpedia.org/resource/Platt_College_(San_Diego)	https://schema.org/location	_:node193k4l961x78
+http://dbpedia.org/resource/Point_Loma_Nazarene_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x79	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x79	https://schema.org/address	http://dbpedia.org/resource/San_Diego
+_:node193k4l961x79	https://schema.org/latitude	"32.71"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x79	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Point_Loma_Nazarene_University	https://schema.org/name	""Point Loma Nazarene University"@en"
+http://dbpedia.org/resource/Point_Loma_Nazarene_University	https://schema.org/location	_:node193k4l961x79
+http://dbpedia.org/resource/Robert_Day_School	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x80	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x80	https://schema.org/address	http://dbpedia.org/resource/Claremont,_California
+_:node193k4l961x80	https://schema.org/latitude	""
+_:node193k4l961x80	https://schema.org/longitude	""
+http://dbpedia.org/resource/Robert_Day_School	https://schema.org/name	""Robert Day School"@en"
+http://dbpedia.org/resource/Robert_Day_School	https://schema.org/location	_:node193k4l961x80
+http://dbpedia.org/resource/SCU_Leavey_School_of_Business	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x81	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x81	https://schema.org/address	http://dbpedia.org/resource/Santa_Clara,_California
+_:node193k4l961x81	https://schema.org/latitude	"37.35"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x81	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/SCU_Leavey_School_of_Business	https://schema.org/name	""SCU Leavey School of Business"@en"
+http://dbpedia.org/resource/SCU_Leavey_School_of_Business	https://schema.org/location	_:node193k4l961x81
+http://dbpedia.org/resource/San_Diego_Christian_College	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x82	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x82	https://schema.org/address	http://dbpedia.org/resource/Santee,_California
+_:node193k4l961x82	https://schema.org/latitude	"32.8"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x82	https://schema.org/longitude	"-116.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/San_Diego_Christian_College	https://schema.org/name	""San Diego Christian College"@en"
+http://dbpedia.org/resource/San_Diego_Christian_College	https://schema.org/location	_:node193k4l961x82
+http://dbpedia.org/resource/San_Francisco_Law_School	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x83	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x83	https://schema.org/address	http://dbpedia.org/resource/San_Francisco
+_:node193k4l961x83	https://schema.org/latitude	"37.77"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x83	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/San_Francisco_Law_School	https://schema.org/name	""San Francisco Law School"@en"
+http://dbpedia.org/resource/San_Francisco_Law_School	https://schema.org/location	_:node193k4l961x83
+http://dbpedia.org/resource/San_Joaquin_College_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x84	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x84	https://schema.org/address	http://dbpedia.org/resource/Clovis,_California
+_:node193k4l961x84	https://schema.org/latitude	"36.82"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x84	https://schema.org/longitude	"-119.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/San_Joaquin_College_of_Law	https://schema.org/name	""San Joaquin College of Law"@en"
+http://dbpedia.org/resource/San_Joaquin_College_of_Law	https://schema.org/location	_:node193k4l961x84
+http://dbpedia.org/resource/San_Luis_Rey_College	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x85	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x85	https://schema.org/address	http://dbpedia.org/resource/Oceanside,_California
+_:node193k4l961x85	https://schema.org/latitude	""
+_:node193k4l961x85	https://schema.org/longitude	""
+http://dbpedia.org/resource/San_Luis_Rey_College	https://schema.org/name	""San Luis Rey College"@en"
+http://dbpedia.org/resource/San_Luis_Rey_College	https://schema.org/location	_:node193k4l961x85
+http://dbpedia.org/resource/Santa_Barbara_&_Ventura_Colleges_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x86	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x86	https://schema.org/address	http://dbpedia.org/resource/Santa_Barbara,_California
+_:node193k4l961x86	https://schema.org/latitude	"34.42"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x86	https://schema.org/longitude	"-119.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Santa_Barbara_&_Ventura_Colleges_of_Law	https://schema.org/name	""Santa Barbara & Ventura Colleges of Law"@en"
+http://dbpedia.org/resource/Santa_Barbara_&_Ventura_Colleges_of_Law	https://schema.org/location	_:node193k4l961x86
+_:node193k4l961x87	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x87	https://schema.org/address	http://dbpedia.org/resource/Ventura,_California
+_:node193k4l961x87	https://schema.org/latitude	"34.42"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x87	https://schema.org/longitude	"-119.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Santa_Barbara_&_Ventura_Colleges_of_Law	https://schema.org/location	_:node193k4l961x87
+http://dbpedia.org/resource/Santa_Clara_University_College_of_Arts_&_Sciences	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x88	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x88	https://schema.org/address	http://dbpedia.org/resource/Santa_Clara,_California
+_:node193k4l961x88	https://schema.org/latitude	"37.35"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x88	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Santa_Clara_University_College_of_Arts_&_Sciences	https://schema.org/name	""Santa Clara University College of Arts & Sciences"@en"
+http://dbpedia.org/resource/Santa_Clara_University_College_of_Arts_&_Sciences	https://schema.org/location	_:node193k4l961x88
+http://dbpedia.org/resource/Santa_Clara_University_School_of_Engineering	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x89	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x89	https://schema.org/address	http://dbpedia.org/resource/Santa_Clara,_California
+_:node193k4l961x89	https://schema.org/latitude	"37.35"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x89	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Santa_Clara_University_School_of_Engineering	https://schema.org/name	""Santa Clara University School of Engineering"@en"
+http://dbpedia.org/resource/Santa_Clara_University_School_of_Engineering	https://schema.org/location	_:node193k4l961x89
+http://dbpedia.org/resource/Santa_Clara_University_School_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x90	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x90	https://schema.org/address	http://dbpedia.org/resource/Santa_Clara,_California
+_:node193k4l961x90	https://schema.org/latitude	"37.34"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x90	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Santa_Clara_University_School_of_Law	https://schema.org/name	""Santa Clara University School of Law"@en"
+http://dbpedia.org/resource/Santa_Clara_University_School_of_Law	https://schema.org/location	_:node193k4l961x90
+http://dbpedia.org/resource/Silicon_Valley_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x91	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x91	https://schema.org/address	http://dbpedia.org/resource/San_Jose,_California
+_:node193k4l961x91	https://schema.org/latitude	""
+_:node193k4l961x91	https://schema.org/longitude	""
+http://dbpedia.org/resource/Silicon_Valley_University	https://schema.org/name	""Silicon Valley University"@en"
+http://dbpedia.org/resource/Silicon_Valley_University	https://schema.org/location	_:node193k4l961x91
+http://dbpedia.org/resource/Simpson_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x92	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x92	https://schema.org/address	http://dbpedia.org/resource/Redding,_California
+_:node193k4l961x92	https://schema.org/latitude	""
+_:node193k4l961x92	https://schema.org/longitude	""
+http://dbpedia.org/resource/Simpson_University	https://schema.org/name	""Simpson University"@en"
+http://dbpedia.org/resource/Simpson_University	https://schema.org/location	_:node193k4l961x92
+http://dbpedia.org/resource/Singularity_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x93	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x93	https://schema.org/address	http://dbpedia.org/resource/Moffett_Federal_Airfield
+_:node193k4l961x93	https://schema.org/latitude	"37.41"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x93	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Singularity_University	https://schema.org/name	""Singularity University"@en"
+http://dbpedia.org/resource/Singularity_University	https://schema.org/location	_:node193k4l961x93
+http://dbpedia.org/resource/Southern_California_Institute_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x94	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x94	https://schema.org/address	http://dbpedia.org/resource/Santa_Barbara,_California
+_:node193k4l961x94	https://schema.org/latitude	"34.26"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x94	https://schema.org/longitude	"-119.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Southern_California_Institute_of_Law	https://schema.org/name	""Southern California Institute of Law"@en"
+http://dbpedia.org/resource/Southern_California_Institute_of_Law	https://schema.org/location	_:node193k4l961x94
+_:node193k4l961x95	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x95	https://schema.org/address	http://dbpedia.org/resource/Ventura,_California
+_:node193k4l961x95	https://schema.org/latitude	"34.26"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x95	https://schema.org/longitude	"-119.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Southern_California_Institute_of_Law	https://schema.org/location	_:node193k4l961x95
+http://dbpedia.org/resource/Southern_California_University_of_Health_Sciences	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x96	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x96	https://schema.org/address	http://dbpedia.org/resource/Whittier,_California
+_:node193k4l961x96	https://schema.org/latitude	""
+_:node193k4l961x96	https://schema.org/longitude	""
+http://dbpedia.org/resource/Southern_California_University_of_Health_Sciences	https://schema.org/name	""Southern California University of Health Sciences"@en"
+http://dbpedia.org/resource/Southern_California_University_of_Health_Sciences	https://schema.org/location	_:node193k4l961x96
+http://dbpedia.org/resource/Southwestern_Law_School	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x97	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x97	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x97	https://schema.org/latitude	"34.06"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x97	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Southwestern_Law_School	https://schema.org/name	""Southwestern Law School"@en"
+http://dbpedia.org/resource/Southwestern_Law_School	https://schema.org/location	_:node193k4l961x97
+http://dbpedia.org/resource/St._Francis_School_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x98	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x98	https://schema.org/address	http://dbpedia.org/resource/Redwood_City,_California
+_:node193k4l961x98	https://schema.org/latitude	""
+_:node193k4l961x98	https://schema.org/longitude	""
+http://dbpedia.org/resource/St._Francis_School_of_Law	https://schema.org/name	""St. Francis School of Law"@en"
+http://dbpedia.org/resource/St._Francis_School_of_Law	https://schema.org/location	_:node193k4l961x98
+http://dbpedia.org/resource/Stanford_Graduate_School_of_Education	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x99	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x99	https://schema.org/address	http://dbpedia.org/resource/Stanford,_California
+_:node193k4l961x99	https://schema.org/latitude	"37.43"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x99	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Stanford_Graduate_School_of_Education	https://schema.org/name	""Stanford Graduate School of Education"@en"
+http://dbpedia.org/resource/Stanford_Graduate_School_of_Education	https://schema.org/location	_:node193k4l961x99
+http://dbpedia.org/resource/Stanford_Law_School	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x100	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x100	https://schema.org/address	http://dbpedia.org/resource/Stanford,_California
+_:node193k4l961x100	https://schema.org/latitude	"37.42"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x100	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Stanford_Law_School	https://schema.org/name	""Stanford Law School"@en"
+http://dbpedia.org/resource/Stanford_Law_School	https://schema.org/location	_:node193k4l961x100
+http://dbpedia.org/resource/Stanford_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x101	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x101	https://schema.org/address	http://dbpedia.org/resource/Stanford,_California
+_:node193k4l961x101	https://schema.org/latitude	"37.43"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x101	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Stanford_University	https://schema.org/name	""Stanford University"@en"
+http://dbpedia.org/resource/Stanford_University	https://schema.org/location	_:node193k4l961x101
+http://dbpedia.org/resource/Taft_Law_School	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x102	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x102	https://schema.org/address	http://dbpedia.org/resource/Santa_Ana,_California
+_:node193k4l961x102	https://schema.org/latitude	""
+_:node193k4l961x102	https://schema.org/longitude	""
+http://dbpedia.org/resource/Taft_Law_School	https://schema.org/name	""Taft Law School"@en"
+http://dbpedia.org/resource/Taft_Law_School	https://schema.org/location	_:node193k4l961x102
+http://dbpedia.org/resource/The_Art_Institute_of_California_%E2%80%93_Hollywood	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x103	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x103	https://schema.org/address	http://dbpedia.org/resource/North_Hollywood,_Los_Angeles
+_:node193k4l961x103	https://schema.org/latitude	"34.06"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x103	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/The_Art_Institute_of_California_%E2%80%93_Hollywood	https://schema.org/name	""The Art Institute of California – Hollywood"@en"
+http://dbpedia.org/resource/The_Art_Institute_of_California_%E2%80%93_Hollywood	https://schema.org/location	_:node193k4l961x103
+http://dbpedia.org/resource/Thomas_Jefferson_School_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x104	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x104	https://schema.org/address	http://dbpedia.org/resource/San_Diego
+_:node193k4l961x104	https://schema.org/latitude	"32.71"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x104	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Thomas_Jefferson_School_of_Law	https://schema.org/name	""Thomas Jefferson School of Law"@en"
+http://dbpedia.org/resource/Thomas_Jefferson_School_of_Law	https://schema.org/location	_:node193k4l961x104
+http://dbpedia.org/resource/Touro_University_California	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x105	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x105	https://schema.org/address	http://dbpedia.org/resource/Vallejo,_California
+_:node193k4l961x105	https://schema.org/latitude	"38.08"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x105	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Touro_University_California	https://schema.org/name	""Touro University California"@en"
+http://dbpedia.org/resource/Touro_University_California	https://schema.org/location	_:node193k4l961x105
+http://dbpedia.org/resource/Trinity_Law_School	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x106	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x106	https://schema.org/address	http://dbpedia.org/resource/Santa_Ana,_California
+_:node193k4l961x106	https://schema.org/latitude	"33.76"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x106	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Trinity_Law_School	https://schema.org/name	""Trinity Law School"@en"
+http://dbpedia.org/resource/Trinity_Law_School	https://schema.org/location	_:node193k4l961x106
+http://dbpedia.org/resource/USC_Marshall_Executive_Education	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x107	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x107	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x107	https://schema.org/latitude	""
+_:node193k4l961x107	https://schema.org/longitude	""
+http://dbpedia.org/resource/USC_Marshall_Executive_Education	https://schema.org/name	""USC Marshall Executive Education"@en"
+http://dbpedia.org/resource/USC_Marshall_Executive_Education	https://schema.org/location	_:node193k4l961x107
+http://dbpedia.org/resource/USC_Marshall_School_of_Business	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x108	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x108	https://schema.org/address	""
+_:node193k4l961x108	https://schema.org/latitude	"34.02"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x108	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/USC_Marshall_School_of_Business	https://schema.org/name	""USC Marshall School of Business"@en"
+http://dbpedia.org/resource/USC_Marshall_School_of_Business	https://schema.org/location	_:node193k4l961x108
+http://dbpedia.org/resource/USC_Rossier_School_of_Education	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x109	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x109	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x109	https://schema.org/latitude	""
+_:node193k4l961x109	https://schema.org/longitude	""
+http://dbpedia.org/resource/USC_Rossier_School_of_Education	https://schema.org/name	""USC Rossier School of Education"@en"
+http://dbpedia.org/resource/USC_Rossier_School_of_Education	https://schema.org/location	_:node193k4l961x109
+http://dbpedia.org/resource/USC_School_of_Architecture	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x110	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x110	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x110	https://schema.org/latitude	""
+_:node193k4l961x110	https://schema.org/longitude	""
+http://dbpedia.org/resource/USC_School_of_Architecture	https://schema.org/name	""USC School of Architecture"@en"
+http://dbpedia.org/resource/USC_School_of_Architecture	https://schema.org/location	_:node193k4l961x110
+http://dbpedia.org/resource/USC_School_of_Dramatic_Arts	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x111	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x111	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x111	https://schema.org/latitude	"34.02"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x111	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/USC_School_of_Dramatic_Arts	https://schema.org/name	""USC School of Dramatic Arts"@en"
+http://dbpedia.org/resource/USC_School_of_Dramatic_Arts	https://schema.org/location	_:node193k4l961x111
+http://dbpedia.org/resource/USC_Viterbi_School_of_Engineering	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x112	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x112	https://schema.org/address	http://dbpedia.org/resource/Los_Angeles
+_:node193k4l961x112	https://schema.org/latitude	"34.02"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x112	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/USC_Viterbi_School_of_Engineering	https://schema.org/name	""USC Viterbi School of Engineering"@en"
+http://dbpedia.org/resource/USC_Viterbi_School_of_Engineering	https://schema.org/location	_:node193k4l961x112
+http://dbpedia.org/resource/United_States_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x113	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x113	https://schema.org/address	http://dbpedia.org/resource/Chula_Vista,_California
+_:node193k4l961x113	https://schema.org/latitude	""
+_:node193k4l961x113	https://schema.org/longitude	""
+http://dbpedia.org/resource/United_States_University	https://schema.org/name	""United States University"@en"
+http://dbpedia.org/resource/United_States_University	https://schema.org/location	_:node193k4l961x113
+http://dbpedia.org/resource/University_of_La_Verne	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x114	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x114	https://schema.org/address	http://dbpedia.org/resource/La_Verne,_California
+_:node193k4l961x114	https://schema.org/latitude	"34.1"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x114	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/University_of_La_Verne	https://schema.org/name	""University of La Verne"@en"
+http://dbpedia.org/resource/University_of_La_Verne	https://schema.org/location	_:node193k4l961x114
+http://dbpedia.org/resource/University_of_La_Verne_College_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x115	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x115	https://schema.org/address	http://dbpedia.org/resource/Ontario,_California
+_:node193k4l961x115	https://schema.org/latitude	"34.06"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x115	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/University_of_La_Verne_College_of_Law	https://schema.org/name	""University of La Verne College of Law"@en"
+http://dbpedia.org/resource/University_of_La_Verne_College_of_Law	https://schema.org/location	_:node193k4l961x115
+http://dbpedia.org/resource/University_of_Northern_California,_Lorenzo_Pati%C3%B1o_School_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x116	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x116	https://schema.org/address	http://dbpedia.org/resource/Sacramento,_California
+_:node193k4l961x116	https://schema.org/latitude	"38.57"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x116	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/University_of_Northern_California,_Lorenzo_Pati%C3%B1o_School_of_Law	https://schema.org/name	""University of Northern California, Lorenzo Patiño School of Law"@en"
+http://dbpedia.org/resource/University_of_Northern_California,_Lorenzo_Pati%C3%B1o_School_of_Law	https://schema.org/location	_:node193k4l961x116
+http://dbpedia.org/resource/University_of_San_Diego	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x117	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x117	https://schema.org/address	http://dbpedia.org/resource/San_Diego
+_:node193k4l961x117	https://schema.org/latitude	"32.77"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x117	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/University_of_San_Diego	https://schema.org/name	""University of San Diego"@en"
+http://dbpedia.org/resource/University_of_San_Diego	https://schema.org/location	_:node193k4l961x117
+http://dbpedia.org/resource/University_of_San_Diego_School_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x118	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x118	https://schema.org/address	http://dbpedia.org/resource/San_Diego
+_:node193k4l961x118	https://schema.org/latitude	"32.77"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x118	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/University_of_San_Diego_School_of_Law	https://schema.org/name	""University of San Diego School of Law"@en"
+http://dbpedia.org/resource/University_of_San_Diego_School_of_Law	https://schema.org/location	_:node193k4l961x118
+http://dbpedia.org/resource/University_of_San_Francisco	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x119	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x119	https://schema.org/address	http://dbpedia.org/resource/San_Francisco
+_:node193k4l961x119	https://schema.org/latitude	"37.77"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x119	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/University_of_San_Francisco	https://schema.org/name	""University of San Francisco"@en"
+http://dbpedia.org/resource/University_of_San_Francisco	https://schema.org/location	_:node193k4l961x119
+http://dbpedia.org/resource/University_of_San_Francisco_School_of_Law	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x120	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x120	https://schema.org/address	http://dbpedia.org/resource/San_Francisco
+_:node193k4l961x120	https://schema.org/latitude	"37.77"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x120	https://schema.org/longitude	"-122.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/University_of_San_Francisco_School_of_Law	https://schema.org/name	""University of San Francisco School of Law"@en"
+http://dbpedia.org/resource/University_of_San_Francisco_School_of_Law	https://schema.org/location	_:node193k4l961x120
+http://dbpedia.org/resource/University_of_Santa_Monica	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x121	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x121	https://schema.org/address	http://dbpedia.org/resource/Santa_Monica,_California
+_:node193k4l961x121	https://schema.org/latitude	"34.03"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x121	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/University_of_Santa_Monica	https://schema.org/name	""University of Santa Monica"@en"
+http://dbpedia.org/resource/University_of_Santa_Monica	https://schema.org/location	_:node193k4l961x121
+http://dbpedia.org/resource/University_of_Silicon_Valley_Law_School	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x122	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x122	https://schema.org/address	http://dbpedia.org/resource/Gilroy,_California
+_:node193k4l961x122	https://schema.org/latitude	"37.02"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x122	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/University_of_Silicon_Valley_Law_School	https://schema.org/name	""University of Silicon Valley Law School"@en"
+http://dbpedia.org/resource/University_of_Silicon_Valley_Law_School	https://schema.org/location	_:node193k4l961x122
+http://dbpedia.org/resource/University_of_Southern_California	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x123	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x123	https://schema.org/address	""
+_:node193k4l961x123	https://schema.org/latitude	"34.02"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x123	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/University_of_Southern_California	https://schema.org/name	""University of Southern California"@en"
+http://dbpedia.org/resource/University_of_Southern_California	https://schema.org/location	_:node193k4l961x123
+http://dbpedia.org/resource/University_of_West_Los_Angeles	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x124	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x124	https://schema.org/address	http://dbpedia.org/resource/Inglewood,_California
+_:node193k4l961x124	https://schema.org/latitude	""
+_:node193k4l961x124	https://schema.org/longitude	""
+http://dbpedia.org/resource/University_of_West_Los_Angeles	https://schema.org/name	""University of West Los Angeles"@en"
+http://dbpedia.org/resource/University_of_West_Los_Angeles	https://schema.org/location	_:node193k4l961x124
+_:node193k4l961x125	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x125	https://schema.org/address	http://dbpedia.org/resource/Chatsworth,_Los_Angeles
+_:node193k4l961x125	https://schema.org/latitude	""
+_:node193k4l961x125	https://schema.org/longitude	""
+http://dbpedia.org/resource/University_of_West_Los_Angeles	https://schema.org/location	_:node193k4l961x125
+http://dbpedia.org/resource/University_of_the_Pacific_(United_States)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x126	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x126	https://schema.org/address	http://dbpedia.org/resource/San_Francisco
+_:node193k4l961x126	https://schema.org/latitude	"37.97"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x126	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/University_of_the_Pacific_(United_States)	https://schema.org/name	""University of the Pacific (United States)"@en"
+http://dbpedia.org/resource/University_of_the_Pacific_(United_States)	https://schema.org/location	_:node193k4l961x126
+_:node193k4l961x127	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x127	https://schema.org/address	http://dbpedia.org/resource/Sacramento,_California
+_:node193k4l961x127	https://schema.org/latitude	"37.97"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x127	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/University_of_the_Pacific_(United_States)	https://schema.org/location	_:node193k4l961x127
+_:node193k4l961x128	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x128	https://schema.org/address	http://dbpedia.org/resource/Stockton,_California
+_:node193k4l961x128	https://schema.org/latitude	"37.97"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x128	https://schema.org/longitude	"-121.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/University_of_the_Pacific_(United_States)	https://schema.org/location	_:node193k4l961x128
+http://dbpedia.org/resource/University_of_the_West	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x129	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x129	https://schema.org/address	http://dbpedia.org/resource/Rosemead,_California
+_:node193k4l961x129	https://schema.org/latitude	""
+_:node193k4l961x129	https://schema.org/longitude	""
+http://dbpedia.org/resource/University_of_the_West	https://schema.org/name	""University of the West"@en"
+http://dbpedia.org/resource/University_of_the_West	https://schema.org/location	_:node193k4l961x129
+http://dbpedia.org/resource/Vanguard_University_of_Southern_California	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x130	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x130	https://schema.org/address	http://dbpedia.org/resource/Costa_Mesa,_California
+_:node193k4l961x130	https://schema.org/latitude	"33.66"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x130	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Vanguard_University_of_Southern_California	https://schema.org/name	""Vanguard University of Southern California"@en"
+http://dbpedia.org/resource/Vanguard_University_of_Southern_California	https://schema.org/location	_:node193k4l961x130
+http://dbpedia.org/resource/West_Coast_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x131	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x131	https://schema.org/address	http://dbpedia.org/resource/Irvine,_California
+_:node193k4l961x131	https://schema.org/latitude	""
+_:node193k4l961x131	https://schema.org/longitude	""
+http://dbpedia.org/resource/West_Coast_University	https://schema.org/name	""West Coast University"@en"
+http://dbpedia.org/resource/West_Coast_University	https://schema.org/location	_:node193k4l961x131
+http://dbpedia.org/resource/Western_Sierra_Law_School	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x132	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x132	https://schema.org/address	http://dbpedia.org/resource/San_Diego
+_:node193k4l961x132	https://schema.org/latitude	"32.81"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x132	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Western_Sierra_Law_School	https://schema.org/name	""Western Sierra Law School"@en"
+http://dbpedia.org/resource/Western_Sierra_Law_School	https://schema.org/location	_:node193k4l961x132
+http://dbpedia.org/resource/Western_University_College_of_Podiatric_Medicine	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x133	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x133	https://schema.org/address	http://dbpedia.org/resource/Pomona,_California
+_:node193k4l961x133	https://schema.org/latitude	"34.05"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x133	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Western_University_College_of_Podiatric_Medicine	https://schema.org/name	""Western University College of Podiatric Medicine"@en"
+http://dbpedia.org/resource/Western_University_College_of_Podiatric_Medicine	https://schema.org/location	_:node193k4l961x133
+http://dbpedia.org/resource/Western_University_College_of_Veterinary_Medicine	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x134	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x134	https://schema.org/address	http://dbpedia.org/resource/Pomona,_California
+_:node193k4l961x134	https://schema.org/latitude	"34.05"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x134	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Western_University_College_of_Veterinary_Medicine	https://schema.org/name	""Western University College of Veterinary Medicine"@en"
+http://dbpedia.org/resource/Western_University_College_of_Veterinary_Medicine	https://schema.org/location	_:node193k4l961x134
+http://dbpedia.org/resource/Western_University_of_Health_Sciences	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x135	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x135	https://schema.org/address	http://dbpedia.org/resource/Pomona,_California
+_:node193k4l961x135	https://schema.org/latitude	"34.05"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x135	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Western_University_of_Health_Sciences	https://schema.org/name	""Western University of Health Sciences"@en"
+http://dbpedia.org/resource/Western_University_of_Health_Sciences	https://schema.org/location	_:node193k4l961x135
+http://dbpedia.org/resource/Whittier_College	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x136	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x136	https://schema.org/address	http://dbpedia.org/resource/Whittier,_California
+_:node193k4l961x136	https://schema.org/latitude	"33.97"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x136	https://schema.org/longitude	"-118.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Whittier_College	https://schema.org/name	""Whittier College"@en"
+http://dbpedia.org/resource/Whittier_College	https://schema.org/location	_:node193k4l961x136
+http://dbpedia.org/resource/Whittier_Law_School	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CollegeOrUniversity
+_:node193k4l961x137	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	https://schema.org/Place
+_:node193k4l961x137	https://schema.org/address	http://dbpedia.org/resource/Costa_Mesa,_California
+_:node193k4l961x137	https://schema.org/latitude	"33.69"^^<http://www.w3.org/2001/XMLSchema#double>
+_:node193k4l961x137	https://schema.org/longitude	"-117.0"^^<http://www.w3.org/2001/XMLSchema#double>
+http://dbpedia.org/resource/Whittier_Law_School	https://schema.org/name	""Whittier Law School"@en"
+http://dbpedia.org/resource/Whittier_Law_School	https://schema.org/location	_:node193k4l961x137

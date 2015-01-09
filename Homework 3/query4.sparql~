@@ -1,0 +1,24 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbontology: <http://dbpedia.org/ontology/>
+PREFIX res: <http://dbpedia.org/resource/>
+PREFIX dbprop: <http://dbpedia.org/property/>
+
+
+SELECT str(?univ)as ?university,  str(?d) as year(?establish_date) WHERE {
+?univ rdf:type <http://dbpedia.org/class/yago/UniversitiesAndCollegesInLosAngelesCounty,California> .
+?univ dbontology:type ?type
+filter(?type = res:Public_university || ?type = res:Private_university).
+{?univ dbprop:established ?date
+filter ( (datatype(?date) = xsd:integer  && ?date <1914)).
+BIND(xsd:date(str(?date)) as ?d).
+}
+UNION
+{
+?univ dbprop:established ?d 
+filter(datatype(?d) = xsd:date&& ?d < xsd:date("1914-01-01")).
+}
+}
+ORDER BY (?d)
+LIMIT 10
+

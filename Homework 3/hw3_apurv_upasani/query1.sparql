@@ -1,0 +1,17 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbontology: <http://dbpedia.org/ontology/>
+PREFIX res: <http://dbpedia.org/resource/>
+PREFIX dbprop: <http://dbpedia.org/property/>
+
+SELECT ?label, str(?student) as ?numStudents WHERE {
+  {<http://dbpedia.org/resource/University_of_California,_Los_Angeles> dbontology:numberOfStudents ?student .
+<http://dbpedia.org/resource/University_of_California,_Los_Angeles> rdfs:label ?label .
+   FILTER(langMatches(lang(?label), "EN"))
+} UNION
+  {res:University_of_Southern_California dbontology:numberOfStudents ?student .
+res:University_of_Southern_California dbprop:label ?label .
+}
+}
+LIMIT 10
+

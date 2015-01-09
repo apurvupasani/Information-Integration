@@ -1,0 +1,137 @@
+http://dbpedia.org/resource/AFI_Conservatory    "AFI Conservatory"@en    http://dbpedia.org/resource/Los_Angeles    NA    NA
+http://dbpedia.org/resource/Abraham_Lincoln_University    "Abraham Lincoln University"@en    http://dbpedia.org/resource/Los_Angeles    "34.0613899230957"    "-118.3011093139648"
+http://dbpedia.org/resource/Academy_of_Chinese_Culture_and_Health_Sciences    "Academy of Chinese Culture and Health Sciences"@en    http://dbpedia.org/resource/Oakland,_California    NA    NA
+http://dbpedia.org/resource/American_Baptist_Seminary_of_the_West    "American Baptist Seminary of the West"@en    http://dbpedia.org/resource/Berkeley,_California    "37.86502075195312"    "-122.2557525634766"
+http://dbpedia.org/resource/American_Heritage_University_of_Southern_California    "American Heritage University of Southern California"@en    http://dbpedia.org/resource/San_Bernardino,_California    NA    NA
+http://dbpedia.org/resource/American_Sports_University    "American Sports University"@en    http://dbpedia.org/resource/San_Bernardino,_California    "34.10630035400391"    "-117.2918014526367"
+http://dbpedia.org/resource/Anaheim_University    "Anaheim University"@en    http://dbpedia.org/resource/Anaheim,_California    "33.81686782836914"    "-117.8879165649414"
+http://dbpedia.org/resource/Antioch_University_Los_Angeles    "Antioch University Los Angeles"@en    http://dbpedia.org/resource/Culver_City,_California    NA    NA
+http://dbpedia.org/resource/Antioch_University_Santa_Barbara    "Antioch University Santa Barbara"@en    http://dbpedia.org/resource/Santa_Barbara,_California    "34.42295074462891"    "-119.6959915161133"
+http://dbpedia.org/resource/Art_Center_College_of_Design    "Art Center College of Design"@en    http://dbpedia.org/resource/Pasadena,_California    "34.16921997070312"    "-118.1852188110352"
+http://dbpedia.org/resource/Azusa_Pacific_University    "Azusa Pacific University"@en    http://dbpedia.org/resource/Azusa,_California    "34.12971115112305"    "-117.8888778686523"
+http://dbpedia.org/resource/Bethany_University    "Bethany University"@en    http://dbpedia.org/resource/Scotts_Valley,_California    "37.07500076293945"    "-121.9940032958984"
+http://dbpedia.org/resource/Brandman_University    "Brandman University"@en    http://dbpedia.org/resource/Irvine,_California    "33.65600967407227"    "-117.7690353393555"
+http://dbpedia.org/resource/Cal_Northern_School_of_Law    "Cal Northern School of Law"@en    http://dbpedia.org/resource/Chico,_California    "39.77444458007812"    "-121.8391647338867"
+http://dbpedia.org/resource/California_College_of_Ayurveda    "California College of Ayurveda"@en    http://dbpedia.org/resource/Nevada_City    NA    NA
+http://dbpedia.org/resource/California_Institute_of_Integral_Studies    "California Institute of Integral Studies"@en    http://dbpedia.org/resource/San_Francisco    NA    NA
+http://dbpedia.org/resource/California_InterContinental_University    "California InterContinental University"@en    http://dbpedia.org/resource/Diamond_Bar,_California    "33.97888946533203"    "-118.4155578613281"
+http://dbpedia.org/resource/California_Southern_Law_School    "California Southern Law School"@en    http://dbpedia.org/resource/Riverside,_California    "33.95909881591797"    "-117.3914031982422"
+http://dbpedia.org/resource/California_Western_School_of_Law    "California Western School of Law"@en    http://dbpedia.org/resource/San_Diego    "32.72249984741211"    "-117.1616668701172"
+http://dbpedia.org/resource/Chapman_University    "Chapman University"@en    http://dbpedia.org/resource/Orange,_California    "33.79277801513672"    "-117.8513870239258"
+http://dbpedia.org/resource/Chapman_University_School_of_Law    "Chapman University School of Law"@en    http://dbpedia.org/resource/Orange,_California    "33.79388809204102"    "-117.8511123657227"
+http://dbpedia.org/resource/Cogswell_Polytechnical_College    "Cogswell Polytechnical College"@en    http://dbpedia.org/resource/Sunnyvale,_California    "37.40700149536133"    "-122.024299621582"
+http://dbpedia.org/resource/College_of_Osteopathic_Medicine_of_the_Pacific    "College of Osteopathic Medicine of the Pacific"@en    http://dbpedia.org/resource/Pomona,_California    "34.05870056152344"    "-117.7425003051758"
+http://dbpedia.org/resource/Columbia_College_Hollywood    "Columbia College Hollywood"@en    http://dbpedia.org/resource/Tarzana,_Los_Angeles    NA    NA
+http://dbpedia.org/resource/Concord_Law_School    "Concord Law School"@en    http://dbpedia.org/resource/Los_Angeles    NA    NA
+http://dbpedia.org/resource/Conservatory_of_Music,_University_of_the_Pacific    "Conservatory of Music, University of the Pacific"@en    http://dbpedia.org/resource/Stockton,_California    NA    NA
+http://dbpedia.org/resource/Culinary_Institute_of_America_at_Greystone    "Culinary Institute of America at Greystone"@en    http://dbpedia.org/resource/St._Helena,_California    NA    NA
+http://dbpedia.org/resource/Drexel_University_Sacramento    "Drexel University Sacramento"@en    http://dbpedia.org/resource/Sacramento,_California    NA    NA
+http://dbpedia.org/resource/Empire_College_School_of_Law    "Empire College School of Law"@en    http://dbpedia.org/resource/Santa_Rosa,_California    "38.46739959716797"    "-122.7285995483398"
+http://dbpedia.org/resource/Epic_Bible_College    "Epic Bible College"@en    http://dbpedia.org/resource/Sacramento,_California    "38.66180038452148"    "-121.3669586181641"
+http://dbpedia.org/resource/Fashion_Institute_of_Design_&_Merchandising    "Fashion Institute of Design & Merchandising"@en    http://dbpedia.org/resource/Los_Angeles    NA    NA
+http://dbpedia.org/resource/Franciscan_School_of_Theology    "Franciscan School of Theology"@en    http://dbpedia.org/resource/Berkeley,_California    "37.8772087097168"    "-122.2607269287109"
+http://dbpedia.org/resource/Glendale_University_College_of_Law    "Glendale University College of Law"@en    http://dbpedia.org/resource/Glendale,_California    "34.14888763427734"    "-118.2455520629883"
+http://dbpedia.org/resource/Golden_Gate_University_School_of_Law    "Golden Gate University School of Law"@en    http://dbpedia.org/resource/San_Francisco    "37.78923034667969"    "-122.3988037109375"
+http://dbpedia.org/resource/Graziadio_School_of_Business_and_Management    "Graziadio School of Business and Management"@en    http://dbpedia.org/resource/Malibu,_California    "33.97729873657227"    "-118.3924026489258"
+http://dbpedia.org/resource/Herguan_University    "Herguan University"@en    http://dbpedia.org/resource/Sunnyvale,_California    NA    NA
+http://dbpedia.org/resource/Holy_Names_University    "Holy Names University"@en    http://dbpedia.org/resource/Oakland,_California    "37.80202102661133"    "-122.1871490478516"
+http://dbpedia.org/resource/Humphreys_College_Laurence_Drivon_School_of_Law    "Humphreys College Laurence Drivon School of Law"@en    http://dbpedia.org/resource/Stockton,_California    "38.01111221313477"    "-121.3163909912109"
+http://dbpedia.org/resource/John_F._Kennedy_University    "John F. Kennedy University"@en    http://dbpedia.org/resource/Pleasant_Hill,_California    "37.9566650390625"    "-122.0547256469727"
+http://dbpedia.org/resource/KGI_School_of_Pharmacy    "KGI School of Pharmacy"@en    http://dbpedia.org/resource/Claremont,_California    "34.09333419799805"    "-117.7236099243164"
+http://dbpedia.org/resource/Keck_Graduate_Institute_of_Applied_Life_Sciences    "Keck Graduate Institute of Applied Life Sciences"@en    http://dbpedia.org/resource/Claremont,_California    NA    NA
+http://dbpedia.org/resource/Keck_School_of_Medicine_of_USC    "Keck School of Medicine of USC"@en    http://dbpedia.org/resource/Los_Angeles    NA    NA
+http://dbpedia.org/resource/Kensington_College    "Kensington College"@en    http://dbpedia.org/resource/Santa_Ana,_California    NA    NA
+http://dbpedia.org/resource/Latin_American_Bible_Institute,_California    "Latin American Bible Institute, California"@en    http://dbpedia.org/resource/La_Puente,_California    "34.03138732910156"    "-117.9891662597656"
+http://dbpedia.org/resource/Lincoln_Law_School_of_Sacramento    "Lincoln Law School of Sacramento"@en    http://dbpedia.org/resource/Sacramento,_California    "38.57222366333008"    "-121.4641647338867"
+http://dbpedia.org/resource/Lincoln_Law_School_of_San_Jose    "Lincoln Law School of San Jose"@en    http://dbpedia.org/resource/San_Jose,_California    "37.33629989624023"    "-121.8910980224609"
+http://dbpedia.org/resource/Loma_Linda_University_School_of_Allied_Health_Professions    "Loma Linda University School of Allied Health Professions"@en    http://dbpedia.org/resource/Loma_Linda,_California    "34.0525016784668"    "-117.2597198486328"
+http://dbpedia.org/resource/Loma_Linda_University_School_of_Dentistry    "Loma Linda University School of Dentistry"@en    http://dbpedia.org/resource/Loma_Linda,_California    NA    NA
+http://dbpedia.org/resource/Loma_Linda_University_School_of_Public_Health    "Loma Linda University School of Public Health"@en    http://dbpedia.org/resource/Loma_Linda,_California    "34.05234909057617"    "-117.2599563598633"
+http://dbpedia.org/resource/Los_Angeles_Recording_School    "Los Angeles Recording School"@en    http://dbpedia.org/resource/Los_Angeles    NA    NA
+http://dbpedia.org/resource/Loyola_Law_School    "Loyola Law School"@en    http://dbpedia.org/resource/Los_Angeles    "34.04861068725586"    "-118.2708358764648"
+http://dbpedia.org/resource/Loyola_Marymount_University    "Loyola Marymount University"@en    http://dbpedia.org/resource/Los_Angeles    "33.97000122070312"    "-118.4179992675781"
+http://dbpedia.org/resource/McGeorge_School_of_Law    "McGeorge School of Law"@en    http://dbpedia.org/resource/Sacramento,_California    "38.54916763305664"    "-121.4727783203125"
+http://dbpedia.org/resource/McMillan_Academy_of_Law    "McMillan Academy of Law"@en    http://dbpedia.org/resource/La_Mesa,_California    "32.76333236694336"    "-117.0199966430664"
+http://dbpedia.org/resource/Monterey_College_of_Law    "Monterey College of Law"@en    http://dbpedia.org/resource/Seaside,_California    "36.5966682434082"    "-121.8913879394531"
+http://dbpedia.org/resource/Monterey_Institute_of_International_Studies    "Monterey Institute of International Studies"@en    http://dbpedia.org/resource/Monterey,_California    "36.59972381591797"    "-121.8969421386719"
+http://dbpedia.org/resource/Mount_Madonna_Institute    "Mount Madonna Institute"@en    http://dbpedia.org/resource/Watsonville,_California    NA    NA
+http://dbpedia.org/resource/Mount_St._Mary's_College    "Mount St. Mary's College"@en    http://dbpedia.org/resource/Los_Angeles    NA    NA
+http://dbpedia.org/resource/National_Hispanic_University    "National Hispanic University"@en    http://dbpedia.org/resource/San_Jose,_California    "37.35910034179688"    "-121.8161010742188"
+http://dbpedia.org/resource/National_University_(California)    "National University (California)"@en    http://dbpedia.org/resource/San_Diego    NA    NA
+http://dbpedia.org/resource/NewSchool_of_Architecture_and_Design    "NewSchool of Architecture and Design"@en    http://dbpedia.org/resource/San_Diego    "32.71333312988281"    "-117.1533355712891"
+http://dbpedia.org/resource/Northwestern_California_University_School_of_Law    "Northwestern California University School of Law"@en    http://dbpedia.org/resource/Sacramento,_California    "38.6058349609375"    "-121.5122222900391"
+http://dbpedia.org/resource/Northwestern_Polytechnic_University    "Northwestern Polytechnic University"@en    http://dbpedia.org/resource/Fremont,_California    "37.47779846191406"    "-121.9259033203125"
+http://dbpedia.org/resource/Notre_Dame_de_Namur_University    "Notre Dame de Namur University"@en    http://dbpedia.org/resource/Belmont,_California    NA    NA
+http://dbpedia.org/resource/Occidental_College    "Occidental College"@en    http://dbpedia.org/resource/Los_Angeles    NA    NA
+http://dbpedia.org/resource/Olivet_University    "Olivet University"@en    http://dbpedia.org/resource/San_Francisco    NA    NA
+http://dbpedia.org/resource/Pacific_Coast_University    "Pacific Coast University"@en    http://dbpedia.org/resource/Long_Beach,_California    "33.78610992431641"    "-118.14111328125"
+http://dbpedia.org/resource/Pacific_Oaks_College    "Pacific Oaks College"@en    http://dbpedia.org/resource/Distance_education    NA    NA
+http://dbpedia.org/resource/Pacific_Oaks_College    "Pacific Oaks College"@en    http://dbpedia.org/resource/Pasadena,_California    NA    NA
+http://dbpedia.org/resource/Pacific_School_of_Religion    "Pacific School of Religion"@en    http://dbpedia.org/resource/Berkeley,_California    "37.87659454345703"    "-122.263298034668"
+http://dbpedia.org/resource/Pacific_States_University    "Pacific States University"@en    http://dbpedia.org/resource/Los_Angeles    "34.04499816894531"    "-118.3089981079102"
+http://dbpedia.org/resource/Pacific_Union_College    "Pacific Union College"@en    http://dbpedia.org/resource/Angwin,_California    "38.56930160522461"    "-122.4412994384766"
+http://dbpedia.org/resource/Palo_Alto_University    "Palo Alto University"@en    http://dbpedia.org/resource/Palo_Alto,_California    "37.38228225708008"    "-122.1875457763672"
+http://dbpedia.org/resource/Patten_University    "Patten University"@en    http://dbpedia.org/resource/Oakland,_California    "37.78633499145508"    "-122.2195739746094"
+http://dbpedia.org/resource/People's_College_of_Law    "People's College of Law"@en    http://dbpedia.org/resource/Los_Angeles    "34.05638885498047"    "-118.2736129760742"
+http://dbpedia.org/resource/Pepperdine_University    "Pepperdine University"@en    http://dbpedia.org/resource/Malibu,_California    "34.0386848449707"    "-118.7075805664062"
+http://dbpedia.org/resource/Pepperdine_University_School_of_Law    "Pepperdine University School of Law"@en    http://dbpedia.org/resource/Malibu,_California    "34.04399108886719"    "-118.7093200683594"
+http://dbpedia.org/resource/Platt_College_(San_Diego)    "Platt College (San Diego)"@en    http://dbpedia.org/resource/San_Diego    "32.76372909545898"    "-117.0637283325195"
+http://dbpedia.org/resource/Point_Loma_Nazarene_University    "Point Loma Nazarene University"@en    http://dbpedia.org/resource/San_Diego    "32.71685409545898"    "-117.2506866455078"
+http://dbpedia.org/resource/Robert_Day_School    "Robert Day School"@en    http://dbpedia.org/resource/Claremont,_California    NA    NA
+http://dbpedia.org/resource/SCU_Leavey_School_of_Business    "SCU Leavey School of Business"@en    http://dbpedia.org/resource/Santa_Clara,_California    "37.35113143920898"    "-121.9396896362305"
+http://dbpedia.org/resource/San_Diego_Christian_College    "San Diego Christian College"@en    http://dbpedia.org/resource/Santee,_California    "32.80397033691406"    "-116.9056396484375"
+http://dbpedia.org/resource/San_Francisco_Law_School    "San Francisco Law School"@en    http://dbpedia.org/resource/San_Francisco    "37.77277755737305"    "-122.4225006103516"
+http://dbpedia.org/resource/San_Joaquin_College_of_Law    "San Joaquin College of Law"@en    http://dbpedia.org/resource/Clovis,_California    "36.82444381713867"    "-119.6975021362305"
+http://dbpedia.org/resource/San_Luis_Rey_College    "San Luis Rey College"@en    http://dbpedia.org/resource/Oceanside,_California    NA    NA
+http://dbpedia.org/resource/Santa_Barbara_&_Ventura_Colleges_of_Law    "Santa Barbara & Ventura Colleges of Law"@en    http://dbpedia.org/resource/Santa_Barbara,_California    "34.42457962036133"    "-119.7050476074219"
+http://dbpedia.org/resource/Santa_Barbara_&_Ventura_Colleges_of_Law    "Santa Barbara & Ventura Colleges of Law"@en    http://dbpedia.org/resource/Ventura,_California    "34.42457962036133"    "-119.7050476074219"
+http://dbpedia.org/resource/Santa_Clara_University_College_of_Arts_&_Sciences    "Santa Clara University College of Arts & Sciences"@en    http://dbpedia.org/resource/Santa_Clara,_California    "37.35113143920898"    "-121.9396896362305"
+http://dbpedia.org/resource/Santa_Clara_University_School_of_Engineering    "Santa Clara University School of Engineering"@en    http://dbpedia.org/resource/Santa_Clara,_California    "37.35113143920898"    "-121.9396896362305"
+http://dbpedia.org/resource/Santa_Clara_University_School_of_Law    "Santa Clara University School of Law"@en    http://dbpedia.org/resource/Santa_Clara,_California    "37.34860992431641"    "-121.9391632080078"
+http://dbpedia.org/resource/Silicon_Valley_University    "Silicon Valley University"@en    http://dbpedia.org/resource/San_Jose,_California    NA    NA
+http://dbpedia.org/resource/Simpson_University    "Simpson University"@en    http://dbpedia.org/resource/Redding,_California    NA    NA
+http://dbpedia.org/resource/Singularity_University    "Singularity University"@en    http://dbpedia.org/resource/Moffett_Federal_Airfield    "37.41522979736328"    "-122.0626525878906"
+http://dbpedia.org/resource/Southern_California_Institute_of_Law    "Southern California Institute of Law"@en    http://dbpedia.org/resource/Santa_Barbara,_California    "34.26694488525391"    "-119.2130584716797"
+http://dbpedia.org/resource/Southern_California_Institute_of_Law    "Southern California Institute of Law"@en    http://dbpedia.org/resource/Ventura,_California    "34.26694488525391"    "-119.2130584716797"
+http://dbpedia.org/resource/Southern_California_University_of_Health_Sciences    "Southern California University of Health Sciences"@en    http://dbpedia.org/resource/Whittier,_California    NA    NA
+http://dbpedia.org/resource/Southwestern_Law_School    "Southwestern Law School"@en    http://dbpedia.org/resource/Los_Angeles    "34.06111145019531"    "-118.2880554199219"
+http://dbpedia.org/resource/St._Francis_School_of_Law    "St. Francis School of Law"@en    http://dbpedia.org/resource/Redwood_City,_California    NA    NA
+http://dbpedia.org/resource/Stanford_Graduate_School_of_Education    "Stanford Graduate School of Education"@en    http://dbpedia.org/resource/Stanford,_California    "37.43000030517578"    "-122.1699981689453"
+http://dbpedia.org/resource/Stanford_Law_School    "Stanford Law School"@en    http://dbpedia.org/resource/Stanford,_California    "37.42416763305664"    "-122.1677780151367"
+http://dbpedia.org/resource/Stanford_University    "Stanford University"@en    http://dbpedia.org/resource/Stanford,_California    "37.43000030517578"    "-122.1699981689453"
+http://dbpedia.org/resource/Taft_Law_School    "Taft Law School"@en    http://dbpedia.org/resource/Santa_Ana,_California    NA    NA
+http://dbpedia.org/resource/The_Art_Institute_of_California_%E2%80%93_Hollywood    "The Art Institute of California – Hollywood"@en    http://dbpedia.org/resource/North_Hollywood,_Los_Angeles    "34.0613899230957"    "-118.2988891601562"
+http://dbpedia.org/resource/Thomas_Jefferson_School_of_Law    "Thomas Jefferson School of Law"@en    http://dbpedia.org/resource/San_Diego    "32.71027755737305"    "-117.154167175293"
+http://dbpedia.org/resource/Touro_University_California    "Touro University California"@en    http://dbpedia.org/resource/Vallejo,_California    "38.08700180053711"    "-122.2642974853516"
+http://dbpedia.org/resource/Trinity_Law_School    "Trinity Law School"@en    http://dbpedia.org/resource/Santa_Ana,_California    "33.76555633544922"    "-117.8519439697266"
+http://dbpedia.org/resource/USC_Marshall_Executive_Education    "USC Marshall Executive Education"@en    http://dbpedia.org/resource/Los_Angeles    NA    NA
+http://dbpedia.org/resource/USC_Marshall_School_of_Business    "USC Marshall School of Business"@en    NA    "34.02051162719727"    "-118.2856292724609"
+http://dbpedia.org/resource/USC_Rossier_School_of_Education    "USC Rossier School of Education"@en    http://dbpedia.org/resource/Los_Angeles    NA    NA
+http://dbpedia.org/resource/USC_School_of_Architecture    "USC School of Architecture"@en    http://dbpedia.org/resource/Los_Angeles    NA    NA
+http://dbpedia.org/resource/USC_School_of_Dramatic_Arts    "USC School of Dramatic Arts"@en    http://dbpedia.org/resource/Los_Angeles    "34.02305603027344"    "-118.2858352661133"
+http://dbpedia.org/resource/USC_Viterbi_School_of_Engineering    "USC Viterbi School of Engineering"@en    http://dbpedia.org/resource/Los_Angeles    "34.02000045776367"    "-118.2888870239258"
+http://dbpedia.org/resource/United_States_University    "United States University"@en    http://dbpedia.org/resource/Chula_Vista,_California    NA    NA
+http://dbpedia.org/resource/University_of_La_Verne    "University of La Verne"@en    http://dbpedia.org/resource/La_Verne,_California    "34.10129165649414"    "-117.7709503173828"
+http://dbpedia.org/resource/University_of_La_Verne_College_of_Law    "University of La Verne College of Law"@en    http://dbpedia.org/resource/Ontario,_California    "34.06638717651367"    "-117.6472244262695"
+http://dbpedia.org/resource/University_of_Northern_California,_Lorenzo_Pati%C3%B1o_School_of_Law    "University of Northern California, Lorenzo Patiño School of Law"@en    http://dbpedia.org/resource/Sacramento,_California    "38.5797233581543"    "-121.4927749633789"
+http://dbpedia.org/resource/University_of_San_Diego    "University of San Diego"@en    http://dbpedia.org/resource/San_Diego    "32.77111053466797"    "-117.1875"
+http://dbpedia.org/resource/University_of_San_Diego_School_of_Law    "University of San Diego School of Law"@en    http://dbpedia.org/resource/San_Diego    "32.77194595336914"    "-117.1877746582031"
+http://dbpedia.org/resource/University_of_San_Francisco    "University of San Francisco"@en    http://dbpedia.org/resource/San_Francisco    "37.77944564819336"    "-122.4519424438477"
+http://dbpedia.org/resource/University_of_San_Francisco_School_of_Law    "University of San Francisco School of Law"@en    http://dbpedia.org/resource/San_Francisco    "37.77472305297852"    "-122.4524993896484"
+http://dbpedia.org/resource/University_of_Santa_Monica    "University of Santa Monica"@en    http://dbpedia.org/resource/Santa_Monica,_California    "34.03240966796875"    "-118.4822845458984"
+http://dbpedia.org/resource/University_of_Silicon_Valley_Law_School    "University of Silicon Valley Law School"@en    http://dbpedia.org/resource/Gilroy,_California    "37.02083206176758"    "-121.5177764892578"
+http://dbpedia.org/resource/University_of_Southern_California    "University of Southern California"@en    NA    "34.02051162719727"    "-118.2856292724609"
+http://dbpedia.org/resource/University_of_West_Los_Angeles    "University of West Los Angeles"@en    http://dbpedia.org/resource/Inglewood,_California    NA    NA
+http://dbpedia.org/resource/University_of_West_Los_Angeles    "University of West Los Angeles"@en    http://dbpedia.org/resource/Chatsworth,_Los_Angeles    NA    NA
+http://dbpedia.org/resource/University_of_the_Pacific_(United_States)    "University of the Pacific (United States)"@en    http://dbpedia.org/resource/San_Francisco    "37.97949981689453"    "-121.3130035400391"
+http://dbpedia.org/resource/University_of_the_Pacific_(United_States)    "University of the Pacific (United States)"@en    http://dbpedia.org/resource/Sacramento,_California    "37.97949981689453"    "-121.3130035400391"
+http://dbpedia.org/resource/University_of_the_Pacific_(United_States)    "University of the Pacific (United States)"@en    http://dbpedia.org/resource/Stockton,_California    "37.97949981689453"    "-121.3130035400391"
+http://dbpedia.org/resource/University_of_the_West    "University of the West"@en    http://dbpedia.org/resource/Rosemead,_California    NA    NA
+http://dbpedia.org/resource/Vanguard_University_of_Southern_California    "Vanguard University of Southern California"@en    http://dbpedia.org/resource/Costa_Mesa,_California    "33.66302490234375"    "-117.9000244140625"
+http://dbpedia.org/resource/West_Coast_University    "West Coast University"@en    http://dbpedia.org/resource/Irvine,_California    NA    NA
+http://dbpedia.org/resource/Western_Sierra_Law_School    "Western Sierra Law School"@en    http://dbpedia.org/resource/San_Diego    "32.81027603149414"    "-117.1408309936523"
+http://dbpedia.org/resource/Western_University_College_of_Podiatric_Medicine    "Western University College of Podiatric Medicine"@en    http://dbpedia.org/resource/Pomona,_California    "34.05870056152344"    "-117.7425003051758"
+http://dbpedia.org/resource/Western_University_College_of_Veterinary_Medicine    "Western University College of Veterinary Medicine"@en    http://dbpedia.org/resource/Pomona,_California    "34.05870056152344"    "-117.7425003051758"
+http://dbpedia.org/resource/Western_University_of_Health_Sciences    "Western University of Health Sciences"@en    http://dbpedia.org/resource/Pomona,_California    "34.05799865722656"    "-117.7470016479492"
+http://dbpedia.org/resource/Whittier_College    "Whittier College"@en    http://dbpedia.org/resource/Whittier,_California    "33.97808837890625"    "-118.0296020507812"
+http://dbpedia.org/resource/Whittier_Law_School    "Whittier Law School"@en    http://dbpedia.org/resource/Costa_Mesa,_California    "33.69361114501953"    "-117.9175033569336"

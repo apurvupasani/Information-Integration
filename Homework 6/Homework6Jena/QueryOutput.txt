@@ -1,0 +1,139 @@
+http://dbpedia.org/resource/AFI_Conservatory	http://dbpedia.org/resource/Los_Angeles		
+http://dbpedia.org/resource/Abraham_Lincoln_University	http://dbpedia.org/resource/Los_Angeles	34.0614^^http://www.w3.org/2001/XMLSchema#float	34.0614^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Academy_of_Chinese_Culture_and_Health_Sciences	http://dbpedia.org/resource/Oakland,_California		
+http://dbpedia.org/resource/American_Baptist_Seminary_of_the_West	http://dbpedia.org/resource/Berkeley,_California	37.865^^http://www.w3.org/2001/XMLSchema#float	37.865^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/American_Heritage_University_of_Southern_California	http://dbpedia.org/resource/San_Bernardino,_California		
+http://dbpedia.org/resource/American_Sports_University	http://dbpedia.org/resource/San_Bernardino,_California	34.1063^^http://www.w3.org/2001/XMLSchema#float	34.1063^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Anaheim_University	http://dbpedia.org/resource/Anaheim,_California	33.8169^^http://www.w3.org/2001/XMLSchema#float	33.8169^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Antioch_University_Los_Angeles	http://dbpedia.org/resource/Culver_City,_California		
+http://dbpedia.org/resource/Antioch_University_Santa_Barbara	http://dbpedia.org/resource/Santa_Barbara,_California	34.423^^http://www.w3.org/2001/XMLSchema#float	34.423^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Art_Center_College_of_Design	http://dbpedia.org/resource/Pasadena,_California	34.1692^^http://www.w3.org/2001/XMLSchema#float	34.1692^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Azusa_Pacific_University	http://dbpedia.org/resource/Azusa,_California	34.1297^^http://www.w3.org/2001/XMLSchema#float	34.1297^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Bethany_University	http://dbpedia.org/resource/Scotts_Valley,_California	37.075^^http://www.w3.org/2001/XMLSchema#float	37.075^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Brandman_University	http://dbpedia.org/resource/Irvine,_California	33.656^^http://www.w3.org/2001/XMLSchema#float	33.656^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Cal_Northern_School_of_Law	http://dbpedia.org/resource/Chico,_California	39.7744^^http://www.w3.org/2001/XMLSchema#float	39.7744^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/California_College_of_Ayurveda	http://dbpedia.org/resource/Nevada_City		
+http://dbpedia.org/resource/California_Institute_of_Integral_Studies	http://dbpedia.org/resource/San_Francisco		
+http://dbpedia.org/resource/California_InterContinental_University	http://dbpedia.org/resource/Diamond_Bar,_California	33.9789^^http://www.w3.org/2001/XMLSchema#float	33.9789^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/California_Southern_Law_School	http://dbpedia.org/resource/Riverside,_California	33.9591^^http://www.w3.org/2001/XMLSchema#float	33.9591^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/California_Southern_University__School_of_Law__1	http://dbpedia.org/resource/Irvine,_California		
+http://dbpedia.org/resource/California_Western_School_of_Law	http://dbpedia.org/resource/San_Diego	32.7225^^http://www.w3.org/2001/XMLSchema#float	32.7225^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Chapman_University	http://dbpedia.org/resource/Orange,_California	33.7928^^http://www.w3.org/2001/XMLSchema#float	33.7928^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Chapman_University_School_of_Law	http://dbpedia.org/resource/Orange,_California	33.7939^^http://www.w3.org/2001/XMLSchema#float	33.7939^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Cogswell_Polytechnical_College	http://dbpedia.org/resource/Sunnyvale,_California	37.407^^http://www.w3.org/2001/XMLSchema#float	37.407^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/College_of_Osteopathic_Medicine_of_the_Pacific	http://dbpedia.org/resource/Pomona,_California	34.0587^^http://www.w3.org/2001/XMLSchema#float	34.0587^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Columbia_College_Hollywood	http://dbpedia.org/resource/Tarzana,_Los_Angeles		
+http://dbpedia.org/resource/Concord_Law_School	http://dbpedia.org/resource/Los_Angeles		
+http://dbpedia.org/resource/Conservatory_of_Music,_University_of_the_Pacific	http://dbpedia.org/resource/Stockton,_California		
+http://dbpedia.org/resource/Culinary_Institute_of_America_at_Greystone	http://dbpedia.org/resource/St._Helena,_California		
+http://dbpedia.org/resource/Drexel_University_Sacramento	http://dbpedia.org/resource/Sacramento,_California		
+http://dbpedia.org/resource/Empire_College_School_of_Law	http://dbpedia.org/resource/Santa_Rosa,_California	38.4674^^http://www.w3.org/2001/XMLSchema#float	38.4674^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Epic_Bible_College	http://dbpedia.org/resource/Sacramento,_California	38.6618^^http://www.w3.org/2001/XMLSchema#float	38.6618^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Fashion_Institute_of_Design_&_Merchandising	http://dbpedia.org/resource/Los_Angeles		
+http://dbpedia.org/resource/Franciscan_School_of_Theology	http://dbpedia.org/resource/Berkeley,_California	37.8772^^http://www.w3.org/2001/XMLSchema#float	37.8772^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Glendale_University_College_of_Law	http://dbpedia.org/resource/Glendale,_California	34.1489^^http://www.w3.org/2001/XMLSchema#float	34.1489^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Golden_Gate_University_School_of_Law	http://dbpedia.org/resource/San_Francisco	37.7892^^http://www.w3.org/2001/XMLSchema#float	37.7892^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Graziadio_School_of_Business_and_Management	http://dbpedia.org/resource/Malibu,_California	33.9773^^http://www.w3.org/2001/XMLSchema#float	33.9773^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Herguan_University	http://dbpedia.org/resource/Sunnyvale,_California		
+http://dbpedia.org/resource/Holy_Names_University	http://dbpedia.org/resource/Oakland,_California	37.802^^http://www.w3.org/2001/XMLSchema#float	37.802^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Humphreys_College_Laurence_Drivon_School_of_Law	http://dbpedia.org/resource/Stockton,_California	38.0111^^http://www.w3.org/2001/XMLSchema#float	38.0111^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/John_F._Kennedy_University	http://dbpedia.org/resource/Pleasant_Hill,_California	37.9567^^http://www.w3.org/2001/XMLSchema#float	37.9567^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/John_F._Kennedy_University__College_of_Law__1	http://dbpedia.org/resource/Pleasant_Hill,_California		
+http://dbpedia.org/resource/KGI_School_of_Pharmacy	http://dbpedia.org/resource/Claremont,_California	34.0933^^http://www.w3.org/2001/XMLSchema#float	34.0933^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Keck_Graduate_Institute_of_Applied_Life_Sciences	http://dbpedia.org/resource/Claremont,_California		
+http://dbpedia.org/resource/Keck_School_of_Medicine_of_USC	http://dbpedia.org/resource/Los_Angeles		
+http://dbpedia.org/resource/Kensington_College	http://dbpedia.org/resource/Santa_Ana,_California		
+http://dbpedia.org/resource/Latin_American_Bible_Institute,_California	http://dbpedia.org/resource/La_Puente,_California	34.0314^^http://www.w3.org/2001/XMLSchema#float	34.0314^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Lincoln_Law_School_of_Sacramento	http://dbpedia.org/resource/Sacramento,_California	38.5722^^http://www.w3.org/2001/XMLSchema#float	38.5722^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Lincoln_Law_School_of_San_Jose	http://dbpedia.org/resource/San_Jose,_California	37.3363^^http://www.w3.org/2001/XMLSchema#float	37.3363^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Loma_Linda_University_School_of_Allied_Health_Professions	http://dbpedia.org/resource/Loma_Linda,_California	34.0525^^http://www.w3.org/2001/XMLSchema#float	34.0525^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Loma_Linda_University_School_of_Dentistry	http://dbpedia.org/resource/Loma_Linda,_California		
+http://dbpedia.org/resource/Loma_Linda_University_School_of_Public_Health	http://dbpedia.org/resource/Loma_Linda,_California	34.0523^^http://www.w3.org/2001/XMLSchema#float	34.0523^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Los_Angeles_Recording_School	http://dbpedia.org/resource/Los_Angeles		
+http://dbpedia.org/resource/Loyola_Law_School	http://dbpedia.org/resource/Los_Angeles	34.0486^^http://www.w3.org/2001/XMLSchema#float	34.0486^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Loyola_Marymount_University	http://dbpedia.org/resource/Los_Angeles	33.97^^http://www.w3.org/2001/XMLSchema#float	33.97^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/McGeorge_School_of_Law	http://dbpedia.org/resource/Sacramento,_California	38.5492^^http://www.w3.org/2001/XMLSchema#float	38.5492^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/McMillan_Academy_of_Law	http://dbpedia.org/resource/La_Mesa,_California	32.7633^^http://www.w3.org/2001/XMLSchema#float	32.7633^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Monterey_College_of_Law	http://dbpedia.org/resource/Seaside,_California	36.5967^^http://www.w3.org/2001/XMLSchema#float	36.5967^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Monterey_Institute_of_International_Studies	http://dbpedia.org/resource/Monterey,_California	36.5997^^http://www.w3.org/2001/XMLSchema#float	36.5997^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Mount_Madonna_Institute	http://dbpedia.org/resource/Watsonville,_California		
+http://dbpedia.org/resource/Mount_St._Mary's_College	http://dbpedia.org/resource/Los_Angeles		
+http://dbpedia.org/resource/National_Hispanic_University	http://dbpedia.org/resource/San_Jose,_California	37.3591^^http://www.w3.org/2001/XMLSchema#float	37.3591^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/National_University_(California)	http://dbpedia.org/resource/San_Diego		
+http://dbpedia.org/resource/NewSchool_of_Architecture_and_Design	http://dbpedia.org/resource/San_Diego	32.7133^^http://www.w3.org/2001/XMLSchema#float	32.7133^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Northwestern_California_University_School_of_Law	http://dbpedia.org/resource/Sacramento,_California	38.6058^^http://www.w3.org/2001/XMLSchema#float	38.6058^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Northwestern_Polytechnic_University	http://dbpedia.org/resource/Fremont,_California	37.4778^^http://www.w3.org/2001/XMLSchema#float	37.4778^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Notre_Dame_de_Namur_University	http://dbpedia.org/resource/Belmont,_California		
+http://dbpedia.org/resource/Occidental_College	http://dbpedia.org/resource/Los_Angeles		
+http://dbpedia.org/resource/Olivet_University	http://dbpedia.org/resource/San_Francisco		
+http://dbpedia.org/resource/Pacific_Coast_University	http://dbpedia.org/resource/Long_Beach,_California	33.7861^^http://www.w3.org/2001/XMLSchema#float	33.7861^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Pacific_Oaks_College	http://dbpedia.org/resource/Distance_education		
+http://dbpedia.org/resource/Pacific_Oaks_College	http://dbpedia.org/resource/Pasadena,_California		
+http://dbpedia.org/resource/Pacific_School_of_Religion	http://dbpedia.org/resource/Berkeley,_California	37.8766^^http://www.w3.org/2001/XMLSchema#float	37.8766^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Pacific_States_University	http://dbpedia.org/resource/Los_Angeles	34.045^^http://www.w3.org/2001/XMLSchema#float	34.045^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Pacific_Union_College	http://dbpedia.org/resource/Angwin,_California	38.5693^^http://www.w3.org/2001/XMLSchema#float	38.5693^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Palo_Alto_University	http://dbpedia.org/resource/Palo_Alto,_California	37.3823^^http://www.w3.org/2001/XMLSchema#float	37.3823^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Patten_University	http://dbpedia.org/resource/Oakland,_California	37.7863^^http://www.w3.org/2001/XMLSchema#float	37.7863^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/People's_College_of_Law	http://dbpedia.org/resource/Los_Angeles	34.0564^^http://www.w3.org/2001/XMLSchema#float	34.0564^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Pepperdine_University	http://dbpedia.org/resource/Malibu,_California	34.0387^^http://www.w3.org/2001/XMLSchema#float	34.0387^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Pepperdine_University_School_of_Law	http://dbpedia.org/resource/Malibu,_California	34.044^^http://www.w3.org/2001/XMLSchema#float	34.044^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Platt_College_(San_Diego)	http://dbpedia.org/resource/San_Diego	32.7637^^http://www.w3.org/2001/XMLSchema#float	32.7637^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Point_Loma_Nazarene_University	http://dbpedia.org/resource/San_Diego	32.7169^^http://www.w3.org/2001/XMLSchema#float	32.7169^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Robert_Day_School	http://dbpedia.org/resource/Claremont,_California		
+http://dbpedia.org/resource/SCU_Leavey_School_of_Business	http://dbpedia.org/resource/Santa_Clara,_California	37.3511^^http://www.w3.org/2001/XMLSchema#float	37.3511^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/San_Diego_Christian_College	http://dbpedia.org/resource/Santee,_California	32.804^^http://www.w3.org/2001/XMLSchema#float	32.804^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/San_Francisco_Law_School	http://dbpedia.org/resource/San_Francisco	37.7728^^http://www.w3.org/2001/XMLSchema#float	37.7728^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/San_Joaquin_College_of_Law	http://dbpedia.org/resource/Clovis,_California	36.8244^^http://www.w3.org/2001/XMLSchema#float	36.8244^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/San_Luis_Rey_College	http://dbpedia.org/resource/Oceanside,_California		
+http://dbpedia.org/resource/Santa_Barbara_&_Ventura_Colleges_of_Law	http://dbpedia.org/resource/Santa_Barbara,_California	34.4246^^http://www.w3.org/2001/XMLSchema#float	34.4246^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Santa_Barbara_&_Ventura_Colleges_of_Law	http://dbpedia.org/resource/Ventura,_California	34.4246^^http://www.w3.org/2001/XMLSchema#float	34.4246^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Santa_Clara_University_College_of_Arts_&_Sciences	http://dbpedia.org/resource/Santa_Clara,_California	37.3511^^http://www.w3.org/2001/XMLSchema#float	37.3511^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Santa_Clara_University_School_of_Engineering	http://dbpedia.org/resource/Santa_Clara,_California	37.3511^^http://www.w3.org/2001/XMLSchema#float	37.3511^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Santa_Clara_University_School_of_Law	http://dbpedia.org/resource/Santa_Clara,_California	37.3486^^http://www.w3.org/2001/XMLSchema#float	37.3486^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Silicon_Valley_University	http://dbpedia.org/resource/San_Jose,_California		
+http://dbpedia.org/resource/Simpson_University	http://dbpedia.org/resource/Redding,_California		
+http://dbpedia.org/resource/Singularity_University	http://dbpedia.org/resource/Moffett_Federal_Airfield	37.4152^^http://www.w3.org/2001/XMLSchema#float	37.4152^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Southern_California_Institute_of_Law	http://dbpedia.org/resource/Santa_Barbara,_California	34.2669^^http://www.w3.org/2001/XMLSchema#float	34.2669^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Southern_California_Institute_of_Law	http://dbpedia.org/resource/Ventura,_California	34.2669^^http://www.w3.org/2001/XMLSchema#float	34.2669^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Southern_California_University_of_Health_Sciences	http://dbpedia.org/resource/Whittier,_California		
+http://dbpedia.org/resource/Southwestern_Law_School	http://dbpedia.org/resource/Los_Angeles	34.0611^^http://www.w3.org/2001/XMLSchema#float	34.0611^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/St._Francis_School_of_Law	http://dbpedia.org/resource/Redwood_City,_California		
+http://dbpedia.org/resource/Stanford_Graduate_School_of_Education	http://dbpedia.org/resource/Stanford,_California	37.43^^http://www.w3.org/2001/XMLSchema#float	37.43^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Stanford_Law_School	http://dbpedia.org/resource/Stanford,_California	37.4242^^http://www.w3.org/2001/XMLSchema#float	37.4242^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Stanford_University	http://dbpedia.org/resource/Stanford,_California	37.43^^http://www.w3.org/2001/XMLSchema#float	37.43^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Taft_Law_School	http://dbpedia.org/resource/Santa_Ana,_California		
+http://dbpedia.org/resource/The_Art_Institute_of_California_%E2%80%93_Hollywood	http://dbpedia.org/resource/North_Hollywood,_Los_Angeles	34.0614^^http://www.w3.org/2001/XMLSchema#float	34.0614^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Thomas_Jefferson_School_of_Law	http://dbpedia.org/resource/San_Diego	32.7103^^http://www.w3.org/2001/XMLSchema#float	32.7103^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Touro_University_California	http://dbpedia.org/resource/Vallejo,_California	38.087^^http://www.w3.org/2001/XMLSchema#float	38.087^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Trinity_Law_School	http://dbpedia.org/resource/Santa_Ana,_California	33.7656^^http://www.w3.org/2001/XMLSchema#float	33.7656^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/USC_Marshall_Executive_Education	http://dbpedia.org/resource/Los_Angeles		
+http://dbpedia.org/resource/USC_Marshall_School_of_Business	null	34.0205^^http://www.w3.org/2001/XMLSchema#float	34.0205^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/USC_Rossier_School_of_Education	http://dbpedia.org/resource/Los_Angeles		
+http://dbpedia.org/resource/USC_School_of_Architecture	http://dbpedia.org/resource/Los_Angeles		
+http://dbpedia.org/resource/USC_School_of_Dramatic_Arts	http://dbpedia.org/resource/Los_Angeles	34.0231^^http://www.w3.org/2001/XMLSchema#float	34.0231^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/USC_Viterbi_School_of_Engineering	http://dbpedia.org/resource/Los_Angeles	34.02^^http://www.w3.org/2001/XMLSchema#float	34.02^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/United_States_University	http://dbpedia.org/resource/Chula_Vista,_California		
+http://dbpedia.org/resource/University_of_La_Verne	http://dbpedia.org/resource/La_Verne,_California	34.1013^^http://www.w3.org/2001/XMLSchema#float	34.1013^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/University_of_La_Verne_College_of_Law	http://dbpedia.org/resource/Ontario,_California	34.0664^^http://www.w3.org/2001/XMLSchema#float	34.0664^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/University_of_Northern_California,_Lorenzo_Pati%C3%B1o_School_of_Law	http://dbpedia.org/resource/Sacramento,_California	38.5797^^http://www.w3.org/2001/XMLSchema#float	38.5797^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/University_of_San_Diego	http://dbpedia.org/resource/San_Diego	32.7711^^http://www.w3.org/2001/XMLSchema#float	32.7711^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/University_of_San_Diego_School_of_Law	http://dbpedia.org/resource/San_Diego	32.7719^^http://www.w3.org/2001/XMLSchema#float	32.7719^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/University_of_San_Francisco	http://dbpedia.org/resource/San_Francisco	37.7794^^http://www.w3.org/2001/XMLSchema#float	37.7794^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/University_of_San_Francisco_School_of_Law	http://dbpedia.org/resource/San_Francisco	37.7747^^http://www.w3.org/2001/XMLSchema#float	37.7747^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/University_of_Santa_Monica	http://dbpedia.org/resource/Santa_Monica,_California	34.0324^^http://www.w3.org/2001/XMLSchema#float	34.0324^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/University_of_Silicon_Valley_Law_School	http://dbpedia.org/resource/Gilroy,_California	37.0208^^http://www.w3.org/2001/XMLSchema#float	37.0208^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/University_of_Southern_California	null	34.0205^^http://www.w3.org/2001/XMLSchema#float	34.0205^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/University_of_West_Los_Angeles	http://dbpedia.org/resource/Inglewood,_California		
+http://dbpedia.org/resource/University_of_West_Los_Angeles	http://dbpedia.org/resource/Chatsworth,_Los_Angeles		
+http://dbpedia.org/resource/University_of_the_Pacific_(United_States)	http://dbpedia.org/resource/San_Francisco	37.9795^^http://www.w3.org/2001/XMLSchema#float	37.9795^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/University_of_the_Pacific_(United_States)	http://dbpedia.org/resource/Sacramento,_California	37.9795^^http://www.w3.org/2001/XMLSchema#float	37.9795^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/University_of_the_Pacific_(United_States)	http://dbpedia.org/resource/Stockton,_California	37.9795^^http://www.w3.org/2001/XMLSchema#float	37.9795^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/University_of_the_West	http://dbpedia.org/resource/Rosemead,_California		
+http://dbpedia.org/resource/Vanguard_University_of_Southern_California	http://dbpedia.org/resource/Costa_Mesa,_California	33.663^^http://www.w3.org/2001/XMLSchema#float	33.663^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/West_Coast_University	http://dbpedia.org/resource/Irvine,_California		
+http://dbpedia.org/resource/Western_Sierra_Law_School	http://dbpedia.org/resource/San_Diego	32.8103^^http://www.w3.org/2001/XMLSchema#float	32.8103^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Western_University_College_of_Podiatric_Medicine	http://dbpedia.org/resource/Pomona,_California	34.0587^^http://www.w3.org/2001/XMLSchema#float	34.0587^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Western_University_College_of_Veterinary_Medicine	http://dbpedia.org/resource/Pomona,_California	34.0587^^http://www.w3.org/2001/XMLSchema#float	34.0587^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Western_University_of_Health_Sciences	http://dbpedia.org/resource/Pomona,_California	34.058^^http://www.w3.org/2001/XMLSchema#float	34.058^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Whittier_College	http://dbpedia.org/resource/Whittier,_California	33.9781^^http://www.w3.org/2001/XMLSchema#float	33.9781^^http://www.w3.org/2001/XMLSchema#float
+http://dbpedia.org/resource/Whittier_Law_School	http://dbpedia.org/resource/Costa_Mesa,_California	33.6936^^http://www.w3.org/2001/XMLSchema#float	33.6936^^http://www.w3.org/2001/XMLSchema#float

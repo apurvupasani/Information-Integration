@@ -1,0 +1,64 @@
+import org.openrdf.model.*;
+import org.openrdf.model.vocabulary.RDF;
+import org.openrdf.query.*;
+import org.openrdf.repository.*;
+import org.openrdf.repository.config.RepositoryConfigException;
+import org.openrdf.repository.manager.RemoteRepositoryManager;
+import org.openrdf.repository.sparql.*;
+import java.io.*;
+import java.util.*;
+
+public class Homework6ConstructTriples {
+	
+	public static void main(String args[])
+	{
+		String serverUrl = "http://localhost:6655/openrdf-sesame";
+		RemoteRepositoryManager manager = new RemoteRepositoryManager(serverUrl);
+		RepositoryConnection con =null;
+		Repository myRepository;
+		Scanner sc = null;
+		try {
+			manager.initialize();
+			myRepository = manager.getRepository("Homework6");
+			ValueFactory f = myRepository.getValueFactory();
+			con = myRepository.getConnection();
+			
+			URI collegeUniv = f.createURI("http://schema.org/CollegeOrUniversity");
+			URI univName = f.createURI("https://schema.org/name");
+			URI latitude = f.createURI("https://schema.org/latitude");
+			URI longitude = f.createURI("https://schema.org/longitude");
+			
+			sc = new Scanner(new File(args[0]));
+			String s = "";
+			while((s=sc.nextLine())!=null)
+			{
+				
+				String ar[] = s.split(",");
+				System.out.println(s);
+				con.add(f.createURI(ar[0]),RDF.TYPE,collegeUniv,new Resource[3]);
+				con.add(f.createURI(ar[0]),univName,f.createURI(ar[1]), new Resource[3]);
+				con.add(f.createURI(ar[0]),latitude,f.createLiteral(ar[2]), new Resource[3]);
+				con.add(f.createURI(ar[0]),longitude,f.createLiteral(ar[3]), new Resource[3]);
+				
+				
+			}
+			
+			
+		} catch (Throwable e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} 
+		finally
+		{
+			try {
+				con.close();
+			} catch (RepositoryException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			sc.close();
+		}
+		
+	}
+
+}

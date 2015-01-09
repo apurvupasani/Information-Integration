@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <left-data-source class="cdc.impl.datasource.text.CSVDataSource" name="sourceA">
+        <params>
+            <param name="column-separator" value=","/>
+            <param name="source-name" value="sourceA"/>
+            <param name="input-file" value="E:\E\USC Course Notes\Information Integration - Prof Knoblock\Homework 10\hw10-record-linkage\hw10-record-linkage\d1.csv"/>
+        </params>
+        <row-model>
+            <column column="city"
+                converter="cdc.datamodel.converters.DummyConverter" name="city">
+                <empty-values/>
+            </column>
+            <column column="type"
+                converter="cdc.datamodel.converters.DummyConverter" name="type">
+                <empty-values/>
+            </column>
+            <column column="name"
+                converter="cdc.datamodel.converters.DummyConverter" name="name">
+                <empty-values/>
+            </column>
+            <column column="addr"
+                converter="cdc.datamodel.converters.DummyConverter" name="addr">
+                <empty-values/>
+            </column>
+        </row-model>
+    </left-data-source>
+    <right-data-source class="cdc.impl.datasource.text.CSVDataSource" name="sourceB">
+        <params>
+            <param name="column-separator" value=","/>
+            <param name="source-name" value="sourceB"/>
+            <param name="input-file" value="E:\E\USC Course Notes\Information Integration - Prof Knoblock\Homework 10\hw10-record-linkage\hw10-record-linkage\d2.csv"/>
+        </params>
+        <row-model>
+            <column column="city"
+                converter="cdc.datamodel.converters.DummyConverter" name="city">
+                <empty-values/>
+            </column>
+            <column column="type"
+                converter="cdc.datamodel.converters.DummyConverter" name="type">
+                <empty-values/>
+            </column>
+            <column column="name"
+                converter="cdc.datamodel.converters.DummyConverter" name="name">
+                <empty-values/>
+            </column>
+            <column column="addr"
+                converter="cdc.datamodel.converters.DummyConverter" name="addr">
+                <empty-values/>
+            </column>
+        </row-model>
+    </right-data-source>
+    <join class="cdc.impl.join.nestedloop.NestedLoopJoin"
+        summary-left="false" summary-right="false">
+        <params/>
+        <join-condition class="cdc.impl.conditions.WeightedJoinCondition">
+            <params>
+                <param name="acceptance-level" value="90"/>
+            </params>
+            <condition class="cdc.impl.distance.JaroWinkler"
+                left-column="name" right-column="name" weight="30">
+                <params>
+                    <param name="pref-weight" value="0.1"/>
+                    <param name="pref-length" value="4"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.JaroWinkler"
+                left-column="addr" right-column="addr" weight="25">
+                <params>
+                    <param name="pref-weight" value="0.1"/>
+                    <param name="pref-length" value="4"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.JaroWinkler"
+                left-column="city" right-column="city" weight="40">
+                <params>
+                    <param name="pref-weight" value="0.1"/>
+                    <param name="pref-length" value="4"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.JaroWinkler"
+                left-column="type" right-column="type" weight="5">
+                <params>
+                    <param name="pref-weight" value="0.1"/>
+                    <param name="pref-length" value="4"/>
+                </params>
+            </condition>
+        </join-condition>
+        <row-model>
+            <column name="city" source="sourceA"/>
+            <column name="type" source="sourceA"/>
+            <column name="name" source="sourceA"/>
+            <column name="addr" source="sourceA"/>
+            <column name="city" source="sourceB"/>
+            <column name="type" source="sourceB"/>
+            <column name="name" source="sourceB"/>
+            <column name="addr" source="sourceB"/>
+        </row-model>
+    </join>
+    <results-savers>
+        <results-saver class="cdc.impl.resultsavers.CSVFileSaver">
+            <params>
+                <param name="encoding" value="UTF-8"/>
+                <param name="output-file" value="results.csv"/>
+            </params>
+        </results-saver>
+    </results-savers>
+</configuration>

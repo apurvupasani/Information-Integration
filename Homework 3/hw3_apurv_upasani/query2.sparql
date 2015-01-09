@@ -1,0 +1,13 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbontology: <http://dbpedia.org/ontology/>
+PREFIX res: <http://dbpedia.org/resource/>
+PREFIX dbprop: <http://dbpedia.org/property/>
+
+SELECT ?univ AS ?university,str(?student) as ?student_count WHERE {
+  ?univ dbontology:type res:Private_university .
+  ?univ rdf:type <http://dbpedia.org/class/yago/UniversitiesAndCollegesInLosAngelesCounty,California>  .
+  ?univ dbontology:numberOfStudents ?student
+}
+ORDER BY DESC(?student)
+LIMIT 10

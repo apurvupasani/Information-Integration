@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Program Files/Java/jre7"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/commons-dbcp-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/jackson-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/jcl-over-slf4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/json-20090211.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/opencsv-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-config-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-http-client-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-http-protocol-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-http-workbench-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-model-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-query-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-queryalgebra-evaluation-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-queryalgebra-model-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-queryparser-api-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-queryparser-serql-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-queryparser-sparql-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-queryresultio-api-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-queryresultio-binary-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-queryresultio-sparqljson-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-queryresultio-sparqlxml-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-queryresultio-text-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-repository-api-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-repository-contextaware-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-repository-dataset-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-repository-event-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-repository-http-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-repository-manager-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-repository-sail-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-repository-sparql-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-rio-api-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-rio-binary-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-rio-datatypes-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-rio-languages-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-rio-n3-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-rio-nquads-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-rio-ntriples-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-rio-rdfjson-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-rio-rdfxml-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-rio-trig-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-rio-trix-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-rio-turtle-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-runtime-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-sail-api-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-sail-federation-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-sail-inferencer-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-sail-memory-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-sail-nativerdf-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-sail-rdbms-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/sesame-util-2.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/E/USC Course Notes/Information Integration - Prof Knoblock/Homework 6/openrdf-sesame-2.7.13-sdk/openrdf-sesame-2.7.13/war/openrdf-workbench/slf4j-jdk14-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,28 @@
+import jsonpickle;
+
+
+def getPaintingDates(string):
+	string = string.strip()
+	if len(string.split(" ")) > 1 :
+		s = string.split(" ")
+		s[len(s)-1] = s[len(s)-1].replace("ca.","");
+		s[len(s)-1] = s[len(s)-1].replace("]","");
+		if ")" in s[len(s)-1]:
+			return s[0].strip();
+		if s[len(s)-1]=="Paris":
+			return s[len(s)-2].replace(",","").strip()
+			
+		return s[len(s)-1]		
+
+	else:
+		return string;
+
+
+file = open('Homework1Data.txt','r')
+fileData = "";
+for line in file:
+	fileData +=line;
+
+result = jsonpickle.decode(fileData)
+for i in range(1,len(result)+1):
+		print result[str(i)]["paintingDate"]+" "+result[str(i)]["artist"]["artistBirthDate"] + " "+result[str(i)]["artist"]["artistDeathDate"]

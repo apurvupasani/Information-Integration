@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.openrdf.rio.RDFFormat"/>
+<fullyQualifiedTypeName name="org.openrdf.repository.RepositoryConnection"/>
+<fullyQualifiedTypeName name="org.openrdf.OpenRDFException"/>
+<fullyQualifiedTypeName name="org.openrdf.repository.manager.RemoteRepositoryManager"/>
+<fullyQualifiedTypeName name="org.openrdf.repository.Repository"/>
+<fullyQualifiedTypeName name="org.openrdf.repository.manager.LocalRepositoryManager"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="org.openrdf.query.TupleQuery"/>
+<fullyQualifiedTypeName name="org.openrdf.query.TupleQueryResult"/>
+<fullyQualifiedTypeName name="org.openrdf.query.QueryLanguage"/>
+<fullyQualifiedTypeName name="org.openrdf.query.BindingSet"/>
+<fullyQualifiedTypeName name="org.openrdf.model.Value"/>
+</qualifiedTypeNameHistroy>

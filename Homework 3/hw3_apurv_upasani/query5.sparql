@@ -1,0 +1,20 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbontology: <http://dbpedia.org/ontology/>
+PREFIX res: <http://dbpedia.org/resource/>
+PREFIX dbprop: <http://dbpedia.org/property/>
+
+SELECT str(?univ) as ?university ,str(?state) as ?university_state ,str(?type) as ?university_type, str(?endow) as ?endowment,?sfRatio as ?studentFacultyRatio WHERE {
+  ?univ dbontology:type ?type
+filter(?type= res:Private_university || ?type=res:Public_university).
+OPTIONAL {?univ dbprop:endowment ?endow }
+  ?univ dbontology:state ?state
+  filter(?state =res:California ||?state = res:Texas).
+  ?univ dbontology:facultySize ?faculty
+filter(?faculty > 500 && ?faculty < 2500).
+?univ dbontology:numberOfStudents ?students
+BIND((?students/?faculty) AS ?sfRatio)
+filter((?students/?faculty)>10).
+}
+ORDER BY DESC (?sfRatio)
+LIMIT 10

@@ -1,0 +1,36 @@
+@prefix 	rdf: 	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix 	schema: <http://schema.org/> .
+@prefix         xsd: <http://www.w3.org/2001/XMLSchema#> . 
+
+
+_:birthAddress a schema:address;
+	       schema:description "Birth Address";	
+	       schema:addressRegion "Trapani" ;
+	       schema:addressCountry "Italy" . 
+
+_:deathAddress a schema:address;
+	       schema:description "Death Address";
+	       schema:addressRegion "Rome" ;
+	       schema:addressCountry "" .
+
+
+<http://www.guggenheim.org/new-york/collections/collection-online/artists/bios/3167> 
+								a schema:Person;
+								schema:birthDate "1924"^^xsd:gYear;
+								schema:deathDate "2014"^^xsd:gYear;
+								schema:name "Carla Accardi";
+								schema:description "Born on October 9, 1924, in Trapani, Italy, Carla Accardi trained as a painter at the Accademia di belle arti, Florence, before moving to Rome in 1946. Accardi quickly became part of the inner circle of the Art Club and was a frequent visitor to Pietro Consagra's studio. There she met the artists with whom she would establish the influential postwar group Forma 1 (Form 1, 1947\u201351): Consagra, Piero Dorazio, Mino Guerrini, Achille Perilli, Antonio Sanfilippo (whom she would marry), and Giulio Turcato. The group\u2019s manifesto, which Accardi signed in 1947, called for reconciling Marxist politics with abstract art. The group\u2019s first exhibition occurred in Rome in 1947, and Accardi's first solo show soon followed, in 1950 at the Galleria Age d\u2019or, Rome. Her early paintings consisted of interlocking geometric forms. \n In the 1950s, Accardi was involved in the wide-reaching attempts to revolutionize abstraction through the hybridization of geometric abstraction and gestural painting, both in Italy, where she appeared in Arte astratta e concreta in Italia\u20141951 (Abstract and concrete art in Italy\u20141951) at the Galleria nazionale d\u2019arte moderna, Rome, and in France, where art critic Michel Tapi\u00e9 took an interest in her work. (Tapi\u00e9 would later write the introduction to the catalogue accompanying Accardi's 1959 solo exhibition at the Galleria Notizie in Turin.) After forswearing painting from 1952 to 1953, Accardi began to introduce pseudo-calligraphic signs into abstract images, as in Labirinto a settori (Labyrinths and fields, 1957), while reducing her palette to white-on-black compositions to explore the relationship between figure and ground. \nIn 1961 Accardi reintegrated color and began painting on sicofoil, a transparent plastic, instead of canvas. She showcased these new strategies at the 1964 Venice Biennale. By the mid-1960s, she was using these new materials sculpturally. Tenda (Tent, 1965) and Triplice Tenda (Triple tent, 1969) feature sheets of plastic assembled into a tent and covered with brightly colored brushstroke patterns. This phase of Accardi's oeuvre, which was celebrated in the Ambiente/Arte section of the 1976 Venice Biennale, would prove influential for Arte Povera. In the 1980s she returned to canvas and shifted her focus to the use of signs and chromatic juxtapositions.\n" ;
+								schema:address _:birthAddress ;
+								schema:address _:deathAddress . 
+										       
+
+<http://www.guggenheim.org//new-york/collections/collection-online/artwork/10911> 
+								a schema:Painting;
+								schema:name "Blue Concentric";
+								schema:dateCreated "1960"^^xsd:gYear;
+								schema:thumbnailUrl "http://annex.guggenheim.org/collections/media/thumbnails/2002.20_ph_web.jpg";
+								schema:addressLocality "Solomon R. Guggenheim Museum";
+								schema:addressRegion "New York";
+								schema:text "Casein on canvas";
+								schema:creator <“http://www.guggenheim.org/new-york/collections/collection-online/artists/bios/3167”> .
+
